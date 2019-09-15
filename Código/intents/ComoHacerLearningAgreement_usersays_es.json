@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c7da9b7c-42c1-4e9a-b89c-3c364ccdd208",
+    "data": [
+      {
+        "text": "¿Como hago el ",
+        "userDefined": false
+      },
+      {
+        "text": "Learning Agreement",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1bda9ddd-b083-4a07-9c60-8476da1978a3",
+    "data": [
+      {
+        "text": "Como hago el ",
+        "userDefined": false
+      },
+      {
+        "text": "learning agreement",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a676b23-2c0f-40e5-b9a7-efb480ed9ab9",
+    "data": [
+      {
+        "text": "Como se hace el ",
+        "userDefined": false
+      },
+      {
+        "text": "learning agreement",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60ff4157-87b7-4818-a08d-8c9dddfce97d",
+    "data": [
+      {
+        "text": "Como hacer el ",
+        "userDefined": false
+      },
+      {
+        "text": "learning agreement",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

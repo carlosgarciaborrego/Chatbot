@@ -1,0 +1,44 @@
+{
+  "id": "3801f4a1-5512-4e42-acd8-8cfea888b18f",
+  "name": "QueEsElOLS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6705d875-4b36-4a0d-a5ef-cde2558dc477",
+          "required": false,
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": false
+        },
+        {
+          "id": "855370a7-a7b5-44d3-b508-03502ff33ac8",
+          "required": false,
+          "dataType": "@OLS",
+          "name": "OLS",
+          "value": "$OLS",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

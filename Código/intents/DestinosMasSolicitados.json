@@ -1,0 +1,44 @@
+{
+  "id": "796e679a-5bad-41e9-82ae-49ff5efc127a",
+  "name": "DestinosMasSolicitados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5a065d39-3cff-49aa-a7ce-a1f2e6849a54",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "39740c23-cf9e-49bb-a9cf-a04174034e95",
+          "required": false,
+          "dataType": "@Peticiones",
+          "name": "Peticiones",
+          "value": "$Peticiones",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

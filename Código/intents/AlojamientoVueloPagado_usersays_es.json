@@ -1,0 +1,239 @@
+[
+  {
+    "id": "dd5ec11c-7eaa-46cd-b18b-e32ed20c4004",
+    "data": [
+      {
+        "text": "¿Me ",
+        "userDefined": false
+      },
+      {
+        "text": "pagan",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "vuelo y",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " otras cosas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "188d9877-901e-4d53-b587-a6323f8a104a",
+    "data": [
+      {
+        "text": "Entra en la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "viaje",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " y la ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "alias": "Dinero2",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c34fcea-1f2d-4c12-8150-0f501f6868bc",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "viaje",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": " me lo ",
+        "userDefined": false
+      },
+      {
+        "text": "pagan",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98b69fb7-29ec-4e03-a647-edb3874c51bc",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "vuelo",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " es ",
+        "userDefined": false
+      },
+      {
+        "text": "pagado",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "daa5a10f-b52f-495d-b28d-5fd7a0e2eadb",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "pagan",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "viaje",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72450975-6b3b-4c7f-9ed6-addd41a35801",
+    "data": [
+      {
+        "text": "Me ",
+        "userDefined": false
+      },
+      {
+        "text": "pagan",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": ", el ",
+        "userDefined": false
+      },
+      {
+        "text": "vuelo",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": ", etc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "748a4f84-45d5-42ba-829e-dd6e92c3dbf8",
+    "data": [
+      {
+        "text": "El ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": " me lo ",
+        "userDefined": false
+      },
+      {
+        "text": "pagan",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

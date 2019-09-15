@@ -1,0 +1,44 @@
+{
+  "id": "db0a6082-6cbd-4ddc-9b1d-bb35c602039c",
+  "name": "CambiarAcuerdoEstudios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ee601263-a973-4d1f-9777-1b837f8b27b1",
+          "required": false,
+          "dataType": "@CambiarDestino",
+          "name": "CambiarDestino",
+          "value": "$CambiarDestino",
+          "isList": false
+        },
+        {
+          "id": "d9e6bbee-5951-4432-b0c2-51357530da17",
+          "required": false,
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

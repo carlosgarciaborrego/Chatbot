@@ -1,0 +1,209 @@
+[
+  {
+    "id": "1a99768a-23da-45ae-9f06-34000193c734",
+    "data": [
+      {
+        "text": "Los creditos de las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de origen y ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee090a1a-0712-4134-8c17-eb9caca369ae",
+    "data": [
+      {
+        "text": "¿Que hago si los creditos de las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de oirigen y ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden exactamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e4d064b-2f4e-4290-abf2-43fa42408b8a",
+    "data": [
+      {
+        "text": "¿Que hago si los creditos de origen y ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c38df02a-4a9f-4885-b0ea-467635cac644",
+    "data": [
+      {
+        "text": "Los créditos de las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de origen y ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden exactamente ¿qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbdbbeef-107c-4856-92ef-ede4dc396391",
+    "data": [
+      {
+        "text": "¿Que hago si los creditos ",
+        "userDefined": false
+      },
+      {
+        "text": "de dos",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c385eb67-dccc-46db-9419-9d3db23173e0",
+    "data": [
+      {
+        "text": "¿Que hago si los creditos de las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de origen y ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76e5d176-2598-40b5-94ea-137ea318b82a",
+    "data": [
+      {
+        "text": "Si los creditos ",
+        "userDefined": false
+      },
+      {
+        "text": "de las dos",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " no coinciden ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

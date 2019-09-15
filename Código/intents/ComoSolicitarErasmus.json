@@ -1,0 +1,36 @@
+{
+  "id": "4e837cdc-ccc5-4b06-96a2-9d4abf94d360",
+  "name": "ComoSolicitarErasmus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "54f3347f-1981-45b9-9c83-7e23845280ae",
+          "required": false,
+          "dataType": "@Peticiones",
+          "name": "Peticiones",
+          "value": "$Peticiones",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

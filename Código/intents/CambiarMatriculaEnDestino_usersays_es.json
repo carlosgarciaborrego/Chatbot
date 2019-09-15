@@ -1,0 +1,227 @@
+[
+  {
+    "id": "43489cc3-d44d-4620-abda-47218db8bc94",
+    "data": [
+      {
+        "text": "¿Es posible ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " estando de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "213eb60d-8d36-4f2e-87d4-390895c3c0c7",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "matrícula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " esté en ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82cad9e4-08b3-4ad5-9e28-e43ebdba220f",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " este de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03ccb52b-0e6e-4017-91d4-c850706cc768",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " este fuera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ad93cef-a270-4e42-b7dc-bd1f00a50631",
+    "data": [
+      {
+        "text": "¿Se puede ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " estando de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

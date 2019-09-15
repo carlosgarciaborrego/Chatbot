@@ -1,0 +1,245 @@
+[
+  {
+    "id": "db72f1fe-e48c-4b82-8523-4f3971000700",
+    "data": [
+      {
+        "text": "paises",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mas solicitados",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97683f7a-7503-4a47-a424-93f3e9de9221",
+    "data": [
+      {
+        "text": "cuales son los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mas solicitados",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9961e5d0-827f-4023-b8f8-808b0d9edcad",
+    "data": [
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "mas escogen",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      },
+      {
+        "text": " las personas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55fb0900-70fb-410f-a487-ebfda87fcf4f",
+    "data": [
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " donde ",
+        "userDefined": false
+      },
+      {
+        "text": "mas va la gente",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad1d4a9f-82b3-4a02-abb8-67f6d151d1d5",
+    "data": [
+      {
+        "text": "cuales son los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "mas peticiones",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a245afa-57d8-4a65-8c23-f8d97e98e838",
+    "data": [
+      {
+        "text": "cuales son los ",
+        "userDefined": false
+      },
+      {
+        "text": "paises",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "mas peticiones",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      },
+      {
+        "text": " de personas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfde0a39-7b06-4f29-8298-382a87c7d1df",
+    "data": [
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "con mas gente",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07eea942-a7a6-4ec8-84a7-dffff2b1dc7b",
+    "data": [
+      {
+        "text": "los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " donde ",
+        "userDefined": false
+      },
+      {
+        "text": "mas gente",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      },
+      {
+        "text": " va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdadf3e5-9cd5-4bea-afb5-9dec4d55c89e",
+    "data": [
+      {
+        "text": "¿Cuáles son los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "más pide",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      },
+      {
+        "text": " la gente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

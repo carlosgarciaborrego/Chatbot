@@ -1,0 +1,121 @@
+[
+  {
+    "id": "e77c1912-915f-46f1-a72d-b77cbdb8edaa",
+    "data": [
+      {
+        "text": "Donde hago el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88d38603-4a9b-4fc8-b6d6-01a2255406f7",
+    "data": [
+      {
+        "text": "no sé ",
+        "userDefined": false
+      },
+      {
+        "text": "por donde empezar",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      },
+      {
+        "text": " con el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d327442-151e-47cd-b4d0-ffccf08e5a69",
+    "data": [
+      {
+        "text": "learning agreement",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c35c56d-e278-4de2-865b-ea97888a21ba",
+    "data": [
+      {
+        "text": "Cómo hago el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0767adec-e4e2-4bc0-bb2d-dcec07c80ac7",
+    "data": [
+      {
+        "text": "Tengo que hacer el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " (",
+        "userDefined": false
+      },
+      {
+        "text": "Learning agreement",
+        "alias": "PlanesDeEstudio1",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": ") y no sé ",
+        "userDefined": false
+      },
+      {
+        "text": "por dónde empezar",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f2b35e0b-ce16-40c0-84ee-6b5455aa3e87",
+  "name": "Alumno",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

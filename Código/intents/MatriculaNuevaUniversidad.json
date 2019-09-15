@@ -1,0 +1,68 @@
+{
+  "id": "a5920f2c-a6c6-43a6-9a07-60b7eda497f7",
+  "name": "MatriculaNuevaUniversidad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb2ba32e-51d7-4bf3-9270-a9a50f6cee35",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "c489163c-b7b0-4073-92c5-f98ddc533e2e",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "2051ee07-28cf-4fad-8fc5-209af978b758",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city1",
+          "value": "$geo-city1",
+          "isList": false
+        },
+        {
+          "id": "4765fa95-593d-4330-9008-802b79d4b595",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "6b47c7c9-4346-4332-b5f5-77320d5f5dde",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city2",
+          "value": "$geo-city2",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

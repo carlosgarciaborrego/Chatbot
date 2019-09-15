@@ -1,0 +1,280 @@
+[
+  {
+    "id": "425d7b7f-6bc2-4ab2-8a00-18b3128c9a7e",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c77ca956-f555-4de9-8827-ec312f0a3071",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": true
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " a la que voy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25b4771e-d8d6-4028-aa34-8eb3c93f0156",
+    "data": [
+      {
+        "text": "¿Tengo que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "980c3e20-625e-40d0-b915-843b1d4488b3",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "nueva",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0de3e0c9-d621-481f-8ac4-20dc9d045cbb",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "nueva",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city2",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41501b12-87f6-4b43-a214-27d190a8d4cb",
+    "data": [
+      {
+        "text": "¿Tengo que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "nueva",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06b2149a-8eca-4fc2-b5f7-f14217ce2ddb",
+    "data": [
+      {
+        "text": "¿Tengo que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "matrícula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "Universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b0aa48f-95fc-42ad-b90b-93a9188087f5",
+    "data": [
+      {
+        "text": "¿Tengo que pagar la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " a la que voy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

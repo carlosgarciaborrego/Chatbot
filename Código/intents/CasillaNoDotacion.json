@@ -1,0 +1,52 @@
+{
+  "id": "da6a1f12-c517-457d-a2f4-90c6f78b396e",
+  "name": "CasillaNoDotacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8302e1fe-b599-486f-a434-9ca3d64c3f50",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "ded22ecb-3d0e-42f4-8c58-bb07483eee91",
+          "required": false,
+          "dataType": "@Nota",
+          "name": "Nota",
+          "value": "$Nota",
+          "isList": false
+        },
+        {
+          "id": "00482398-d878-4f40-be6d-7219a39a2338",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "16f401c5-c91f-4112-8663-5ee093ab8933",
+    "data": [
+      {
+        "text": "Donde ver mi ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c5c3757-b615-42f5-92aa-38a7a17dcc49",
+    "data": [
+      {
+        "text": "Donde esta mi ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "media",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "202613fe-a745-4ad4-93d7-d0af83e4b542",
+    "data": [
+      {
+        "text": "Como se mi ",
+        "userDefined": false
+      },
+      {
+        "text": "calificacion",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cae0efa-cc5e-4759-9d81-73d58fa728e8",
+    "data": [
+      {
+        "text": "Como puedo saber mi ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c03975ea-fdd8-4a58-ae25-73787b55abae",
+    "data": [
+      {
+        "text": "Ver ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "media",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89274f92-2327-4746-9dd1-be822bfa9d35",
+    "data": [
+      {
+        "text": "Como se mi ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "media",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efeec1d4-202b-47b8-924e-fb75a65c8419",
+    "data": [
+      {
+        "text": "Donde puedo ver mi ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94aae523-cacb-4872-953f-4dcc5221ba49",
+    "data": [
+      {
+        "text": "Como puedo saber mi ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ponderada",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

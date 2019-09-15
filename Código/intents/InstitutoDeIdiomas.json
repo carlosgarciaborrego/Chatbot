@@ -1,0 +1,36 @@
+{
+  "id": "2c1ff342-35c9-49a2-886f-4b4cb8676461",
+  "name": "InstitutoDeIdiomas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a3eb49de-5fbd-4511-aa7b-e18e32ed9f9b",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

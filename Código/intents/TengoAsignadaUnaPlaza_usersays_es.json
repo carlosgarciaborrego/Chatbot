@@ -1,0 +1,226 @@
+[
+  {
+    "id": "136ff35d-1be0-40d9-9cea-bbd791298777",
+    "data": [
+      {
+        "text": "tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿que hago ahora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "072975af-7fff-4050-8c5b-20548db275c2",
+    "data": [
+      {
+        "text": "me han asignado ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", que tengo que hacer ahora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51d57120-54cb-4d46-9c1d-0bac6aaacea7",
+    "data": [
+      {
+        "text": "me han dado ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", que hago ahora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb6c9c45-edc5-4423-92fb-6472ffeea8f2",
+    "data": [
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vez tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bcf85eb-9de0-42c7-a212-7d781ecad1fa",
+    "data": [
+      {
+        "text": "Tengo asignada ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " plaza ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": " ¿qué es lo ",
+        "userDefined": false
+      },
+      {
+        "text": "primero",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que tengo que hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de60bb1f-5c50-4d87-8de9-3403e2d529e6",
+    "data": [
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vez tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": ", que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78ad3eeb-b2e1-476f-aada-5edb51e0551a",
+    "data": [
+      {
+        "text": "y ahora, que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7786eb40-457d-4ffc-a265-7f4826fd32fb",
+    "data": [
+      {
+        "text": "SOY TITULAR ",
+        "userDefined": false
+      },
+      {
+        "text": "DE UNA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ERASMUS",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": " Y AHORA, ¿QUÉ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0f56a99-4d05-4ce8-8b43-b7b8f1d1f0b6",
+    "data": [
+      {
+        "text": "tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": ",¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

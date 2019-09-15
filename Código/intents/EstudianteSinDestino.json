@@ -1,0 +1,33 @@
+{
+  "id": "5ac5a41e-6e8b-4d67-94e8-8eaf712f9d4a",
+  "parentId": "06147e95-a9b5-489d-a5fe-ddcdb3285b8c",
+  "rootParentId": "06147e95-a9b5-489d-a5fe-ddcdb3285b8c",
+  "name": "EstudianteSinDestino",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119002,
+  "fallbackIntent": false,
+  "events": []
+}

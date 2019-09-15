@@ -1,0 +1,49 @@
+{
+  "id": "127c6b5c-ff02-44c1-94ba-94c2cfef1bc6",
+  "name": "AcuerdoDeEstudios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d8ba605-b35d-415f-857d-f98c8a99f76d",
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": false
+        },
+        {
+          "id": "912cc473-4cf7-4ba1-850e-148021a1589f",
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio1",
+          "value": "$PlanesDeEstudio1",
+          "isList": false
+        },
+        {
+          "id": "af9728b5-0e95-4a10-84b6-bbd1475bb875",
+          "dataType": "@Informacion",
+          "name": "Informacion",
+          "value": "$Informacion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

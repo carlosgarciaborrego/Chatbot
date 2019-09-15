@@ -1,0 +1,177 @@
+[
+  {
+    "id": "9e7efc9f-4a74-4088-9f89-cdcf41dc4388",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "ecuacion",
+        "alias": "Ecuacion",
+        "meta": "@Ecuacion",
+        "userDefined": false
+      },
+      {
+        "text": " se usa para la ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4b8c72e-9d47-48f7-a690-2e1cb74fa1cf",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "calculo",
+        "alias": "Ecuacion",
+        "meta": "@Ecuacion",
+        "userDefined": false
+      },
+      {
+        "text": " se realiza para ",
+        "userDefined": false
+      },
+      {
+        "text": "calcular",
+        "alias": "Ecuacion1",
+        "meta": "@Ecuacion",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5e1040b-0386-406c-a66a-f45a6f9cc798",
+    "data": [
+      {
+        "text": "Como se ",
+        "userDefined": false
+      },
+      {
+        "text": "calcula",
+        "alias": "Ecuacion",
+        "meta": "@Ecuacion",
+        "userDefined": true
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "Nota1",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e34abe08-4e2f-4716-b86a-55214df830ed",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "calculo",
+        "alias": "Ecuacion",
+        "meta": "@Ecuacion",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adf95001-39bd-4b0f-bed3-c48b2a0298ed",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "formula",
+        "alias": "Ecuacion",
+        "meta": "@Ecuacion",
+        "userDefined": false
+      },
+      {
+        "text": " se usa para ",
+        "userDefined": false
+      },
+      {
+        "text": "calcular",
+        "alias": "Ecuacion1",
+        "meta": "@Ecuacion",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "media",
+        "alias": "Nota1",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

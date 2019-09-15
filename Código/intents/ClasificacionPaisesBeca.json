@@ -1,0 +1,52 @@
+{
+  "id": "bcc2fec5-07cc-48a6-b88e-c447a02324b8",
+  "name": "ClasificacionPaisesBeca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6478faf2-4e13-4b3a-b2b2-3d40c0524c87",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "4d811132-2a28-497b-8921-8455d115d2fb",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": false
+        },
+        {
+          "id": "35b7e651-b191-43aa-ac17-97fbae35e4f7",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares1",
+          "value": "$Lugares1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

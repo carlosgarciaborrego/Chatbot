@@ -1,0 +1,92 @@
+[
+  {
+    "id": "34ab7081-a6d0-4814-988c-b510c93a36c6",
+    "data": [
+      {
+        "text": "escuela de idiomas",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e64e4d7c-5606-4752-9c77-5f6ae1440955",
+    "data": [
+      {
+        "text": "Si estoy apuntado al ",
+        "userDefined": false
+      },
+      {
+        "text": "instituto de idiomas",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " me puedo ir de erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44865579-430f-4022-b5bd-67d76ca14cae",
+    "data": [
+      {
+        "text": "InstitutoDeIdiomas",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2359b4f4-472f-4775-851d-b25b61e660cc",
+    "data": [
+      {
+        "text": "¿Me sirve de algo para pedir la Erasmus si ",
+        "userDefined": false
+      },
+      {
+        "text": "este año",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " (el mismo que voy a pedir la Erasmus) estoy apuntado al ",
+        "userDefined": false
+      },
+      {
+        "text": "instituto de idiomas",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3245db40-4991-45ca-b0ba-eb077a4dbe84",
+    "data": [
+      {
+        "text": "instituto de idiomas",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

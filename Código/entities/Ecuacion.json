@@ -1,0 +1,9 @@
+{
+  "id": "5841db6a-18e8-43dd-8e24-b7263795e7d1",
+  "name": "Ecuacion",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

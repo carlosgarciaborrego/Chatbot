@@ -1,0 +1,248 @@
+[
+  {
+    "id": "2c13485e-6d77-4612-8450-8df3bdbb7513",
+    "data": [
+      {
+        "text": "de todas las ",
+        "userDefined": false
+      },
+      {
+        "text": "ofertas",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": ", cuantas puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "elegir",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "409d691e-71b3-46c0-bab2-3aa9936a7296",
+    "data": [
+      {
+        "text": "numero",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "marcar",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58ee90be-c01b-48e0-b8e8-49d387ddfe9a",
+    "data": [
+      {
+        "text": "cuantos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "seleccionar",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d40fdab4-9037-4a79-917c-60407791bc1d",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "numero",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "elegir",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c58f2abb-398c-4256-8881-34317971be96",
+    "data": [
+      {
+        "text": "cuantas ",
+        "userDefined": false
+      },
+      {
+        "text": "opciones",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      },
+      {
+        "text": " tengo para ",
+        "userDefined": false
+      },
+      {
+        "text": "elegir",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d491c14-b231-43a6-b696-682894a9ea96",
+    "data": [
+      {
+        "text": "¿Cuántas ",
+        "userDefined": false
+      },
+      {
+        "text": "opciones",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " podré ",
+        "userDefined": false
+      },
+      {
+        "text": "elegir",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6938f43-9277-4a94-ad9b-0fbb48431bcb",
+    "data": [
+      {
+        "text": "cuantos",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " distintos puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "marcar",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91c740c2-6925-4c89-b0f6-0677d6c7d75d",
+    "data": [
+      {
+        "text": "cuantos ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "coger",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

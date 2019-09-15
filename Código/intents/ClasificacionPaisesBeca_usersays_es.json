@@ -1,0 +1,158 @@
+[
+  {
+    "id": "ef07b267-8ec2-47d4-a4d6-cd48a9b19c96",
+    "data": [
+      {
+        "text": "Dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " que recibire segun el ",
+        "userDefined": false
+      },
+      {
+        "text": "pais",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83dd0f05-f32a-4ce0-8994-b4c8165241ca",
+    "data": [
+      {
+        "text": "Dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " que me daran segun el ",
+        "userDefined": false
+      },
+      {
+        "text": "pais",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " al que voy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8c0ec0d-6297-4e65-bb91-63bf7d51724c",
+    "data": [
+      {
+        "text": "Dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " que me daran segun mi ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe4b56e6-7829-4f4a-b3db-6beb0cb562d3",
+    "data": [
+      {
+        "text": "Clasificacion de los ",
+        "userDefined": false
+      },
+      {
+        "text": "paises",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78c2a7e1-feb0-45c6-949d-2148fb1fe055",
+    "data": [
+      {
+        "text": "Beca",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " recibida segun el ",
+        "userDefined": false
+      },
+      {
+        "text": "pais",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares1",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70d0d13e-56f9-44c4-83b2-b8420bf777c3",
+    "data": [
+      {
+        "text": "Dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " que me dan segun el ",
+        "userDefined": false
+      },
+      {
+        "text": "pais",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares1",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

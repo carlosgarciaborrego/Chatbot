@@ -1,0 +1,97 @@
+[
+  {
+    "id": "07e6ffe2-c587-4d28-9d5f-ac23f9078d03",
+    "data": [
+      {
+        "text": "¿Qué es el ",
+        "userDefined": false
+      },
+      {
+        "text": "ols",
+        "alias": "OLS",
+        "meta": "@OLS",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "240bdd09-2736-4f8a-97d9-319d27f799cb",
+    "data": [
+      {
+        "text": "En que consiste el ",
+        "userDefined": false
+      },
+      {
+        "text": "OLS",
+        "alias": "OLS",
+        "meta": "@OLS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37774a32-f19e-43d4-ad76-800293339ee5",
+    "data": [
+      {
+        "text": "Informacion",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " sobre el ",
+        "userDefined": false
+      },
+      {
+        "text": "OLS",
+        "alias": "OLS",
+        "meta": "@OLS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b45c07d-06b7-4670-853b-e1445e6647c8",
+    "data": [
+      {
+        "text": "Como funciona el ",
+        "userDefined": false
+      },
+      {
+        "text": "OLS",
+        "alias": "OLS",
+        "meta": "@OLS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca336128-97cb-4956-bcc0-0cb6552a0de9",
+    "data": [
+      {
+        "text": "Que es el ",
+        "userDefined": false
+      },
+      {
+        "text": "OLS?",
+        "alias": "OLS",
+        "meta": "@OLS",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

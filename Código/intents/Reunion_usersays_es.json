@@ -1,0 +1,130 @@
+[
+  {
+    "id": "0d974606-b49d-4094-9af3-f3f16b61f689",
+    "data": [
+      {
+        "text": "no fui a la ",
+        "userDefined": false
+      },
+      {
+        "text": "reunión",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", como puedo enterarme de las cosas que se dijeron",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f95e44d-bd82-4616-8134-d6fa58299c5d",
+    "data": [
+      {
+        "text": "como me puedo enterar de lo que se ",
+        "userDefined": false
+      },
+      {
+        "text": "habló",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "reunión",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc924218-69e4-48fe-b2a1-82da54ff14e2",
+    "data": [
+      {
+        "text": "falté a la ",
+        "userDefined": false
+      },
+      {
+        "text": "reunion",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b629838-8026-4ac9-b29d-37cb72210d06",
+    "data": [
+      {
+        "text": "falte a la ",
+        "userDefined": false
+      },
+      {
+        "text": "reunión",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab568312-eaef-4133-98a1-9fbeecd52b1a",
+    "data": [
+      {
+        "text": "Se me ha pasado la ",
+        "userDefined": false
+      },
+      {
+        "text": "reunión",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", no tengo ni idea de cómo enterarme de qué hacer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "668c2f6d-a897-4955-84fa-4a14015e331b",
+    "data": [
+      {
+        "text": "sino fui a la ",
+        "userDefined": false
+      },
+      {
+        "text": "reunion",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", que puedo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

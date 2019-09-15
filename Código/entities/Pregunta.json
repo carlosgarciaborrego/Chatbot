@@ -1,0 +1,9 @@
+{
+  "id": "38782326-83fb-4608-a4d8-100e4179c871",
+  "name": "Pregunta",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

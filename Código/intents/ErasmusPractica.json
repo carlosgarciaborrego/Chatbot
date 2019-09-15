@@ -1,0 +1,44 @@
+{
+  "id": "8bd4cf7f-f00f-494f-b37a-d8ac6933b204",
+  "name": "ErasmusPractica",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6fb50f74-8ea5-4cfc-b43b-f861267854db",
+          "required": false,
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        },
+        {
+          "id": "b99c269e-cc7f-428b-98d0-9e79d22409cd",
+          "required": false,
+          "dataType": "@Erasmus",
+          "name": "Erasmus1",
+          "value": "$Erasmus1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "930b1056-7b0f-499e-bf9b-23217129e07f",
+  "name": "RecogerLlegadaDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b787988c-d79f-43ee-8b08-f16c723df647",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        },
+        {
+          "id": "f61905a2-36d9-4d8d-8564-e41b1d24ffb0",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "01dbbca2-7ea6-42ee-899e-6182ddf5b77f",
+          "dataType": "@Documento",
+          "name": "Documento",
+          "value": "$Documento",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

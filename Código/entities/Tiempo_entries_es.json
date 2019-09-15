@@ -1,0 +1,45 @@
+[
+  {
+    "value": "cuando",
+    "synonyms": [
+      "cuando",
+      "Cuando"
+    ]
+  },
+  {
+    "value": "año",
+    "synonyms": [
+      "año",
+      "un año",
+      "1 año",
+      "Año",
+      "Un año entero"
+    ]
+  },
+  {
+    "value": "semestre",
+    "synonyms": [
+      "semestre",
+      "Cuatrimestre",
+      "cuatrimestre",
+      "un cuatri",
+      "un semestre",
+      "un cuatrimeste",
+      "cuatri",
+      "4 meses",
+      "cuatro meses",
+      "seis meses",
+      "cuatro meses"
+    ]
+  },
+  {
+    "value": "1 año",
+    "synonyms": [
+      "1 año",
+      "un año",
+      "un año completo",
+      "10 meses",
+      "diez meses"
+    ]
+  }
+]

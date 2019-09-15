@@ -1,0 +1,43 @@
+{
+  "id": "6e427c98-7962-4f9e-89c9-6ffdd1d22e5b",
+  "name": "AsignaturasConvalidadas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "550b7ee4-badd-49b9-ae09-d4913b38ccc9",
+          "required": false,
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas",
+          "value": "$Asignaturas",
+          "isList": false
+        },
+        {
+          "id": "5d8cf344-37bf-482b-a217-f6fc10e38d74",
+          "dataType": "@Convalidar",
+          "name": "Convalidar",
+          "value": "$Convalidar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

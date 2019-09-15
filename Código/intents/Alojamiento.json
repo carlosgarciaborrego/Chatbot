@@ -1,0 +1,36 @@
+{
+  "id": "5b573dd7-e09b-4e64-95b6-63f0a4454e14",
+  "name": "Alojamiento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b69cea05-4428-47fc-8bcf-8a47134beeb0",
+          "required": false,
+          "dataType": "@Alojamiento",
+          "name": "Alojamiento",
+          "value": "$Alojamiento",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

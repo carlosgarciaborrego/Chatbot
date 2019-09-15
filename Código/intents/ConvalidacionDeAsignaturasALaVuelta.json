@@ -1,0 +1,44 @@
+{
+  "id": "bb57a36d-f6ea-429a-86fc-7aa5e6b87e64",
+  "name": "ConvalidacionDeAsignaturasALaVuelta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db04aba2-7854-4463-b7db-344b2a2b231b",
+          "required": false,
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas",
+          "value": "$Asignaturas",
+          "isList": false
+        },
+        {
+          "id": "fb6c00fa-fa8d-408c-8e37-46dd988bdfd9",
+          "required": false,
+          "dataType": "@Convalidar",
+          "name": "Convalidar",
+          "value": "$Convalidar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

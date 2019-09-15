@@ -1,0 +1,59 @@
+{
+  "id": "bb1f39b7-90c1-442a-b5c5-a023442448c7",
+  "name": "NoMatriculaEnDestinoUnaAsignatura",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cee83057-124a-4db1-ac8f-dee4c9681c7b",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "cd226124-fff9-445b-a2c9-83ca0660d399",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "3ceb3447-145b-4348-8df5-0d65460f054b",
+          "required": false,
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas",
+          "value": "$Asignaturas",
+          "isList": false
+        },
+        {
+          "id": "35ab012e-5648-4ca0-8885-04e6ed7e7885",
+          "dataType": "@Convenio",
+          "name": "Convenio",
+          "value": "$Convenio",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

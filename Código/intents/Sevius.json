@@ -1,0 +1,52 @@
+{
+  "id": "b02caf44-dc11-4b43-8043-84682227313b",
+  "name": "Sevius",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b21f41a2-2e01-4722-a2f9-e44a19f08062",
+          "required": false,
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": false
+        },
+        {
+          "id": "3c9cb8fc-92df-48f8-a92b-9c6ca816d259",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "275632ee-2fc7-4a96-a679-83bf12f7b93f",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

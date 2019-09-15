@@ -1,0 +1,52 @@
+{
+  "id": "0e9e0c8e-5e0d-41d5-b48c-1987c172adac",
+  "name": "PlazasLibresSinAcreditar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7e85d9f9-a308-4b92-aa73-c8569f2e37f5",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "fdd02740-3145-4253-8e56-16e377d7d493",
+          "required": false,
+          "dataType": "@Curso",
+          "name": "Curso",
+          "value": "$Curso",
+          "isList": false
+        },
+        {
+          "id": "ac261bcb-59ab-45aa-bf16-a925cb6991bc",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

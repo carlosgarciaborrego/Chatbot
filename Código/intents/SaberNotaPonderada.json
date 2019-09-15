@@ -1,0 +1,44 @@
+{
+  "id": "cead4a94-8ddb-4e8b-8580-6de11bf2d81b",
+  "name": "SaberNotaPonderada",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6385fa4e-fd05-4009-809a-7276eab57c39",
+          "required": false,
+          "dataType": "@Nota",
+          "name": "nota",
+          "value": "$nota",
+          "isList": true
+        },
+        {
+          "id": "c138555c-2e62-49c0-aade-50f2f2b0d42f",
+          "required": false,
+          "dataType": "@Nota",
+          "name": "media",
+          "value": "$media",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

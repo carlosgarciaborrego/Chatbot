@@ -1,0 +1,210 @@
+[
+  {
+    "id": "bf35d8af-9d07-40c7-8e42-985ec8a4b745",
+    "data": [
+      {
+        "text": "a que ",
+        "userDefined": false
+      },
+      {
+        "text": "lugar",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " puedo ir si tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2a76da2-7e51-4720-9c67-4bd69bf3e760",
+    "data": [
+      {
+        "text": "donde",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " puedo ir con la ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditacion de ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b55ca9c1-acf1-4313-9b4b-3e9a4fe243b1",
+    "data": [
+      {
+        "text": "donde",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " puedo irme con el ",
+        "userDefined": false
+      },
+      {
+        "text": "ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4e85152-a4a0-4cf0-80cf-b42c6f07442e",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " hay teniendo el ",
+        "userDefined": false
+      },
+      {
+        "text": "ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "103b99ba-44e0-4469-97c8-70eae6624382",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " se ofertan en ",
+        "userDefined": false
+      },
+      {
+        "text": "inglés",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ff5b192-3b61-4f15-a992-fe8a8782d335",
+    "data": [
+      {
+        "text": "teniendo ",
+        "userDefined": false
+      },
+      {
+        "text": "ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "donde",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " puedo irme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0f2e555-eee4-498f-b009-e2b60280b90e",
+    "data": [
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditacion en ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a70b3ad6-61a6-49a4-890d-c18ec59a586d",
+    "data": [
+      {
+        "text": "destinos",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": " con el ",
+        "userDefined": false
+      },
+      {
+        "text": "idioma ingles",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

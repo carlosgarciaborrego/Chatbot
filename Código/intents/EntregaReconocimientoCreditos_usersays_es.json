@@ -1,0 +1,239 @@
+[
+  {
+    "id": "433aaeef-49ec-4fe5-bd76-c2591f3c526a",
+    "data": [
+      {
+        "text": "¿Qué tengo que entregar a la ",
+        "userDefined": false
+      },
+      {
+        "text": "vuelta",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " para que se ",
+        "userDefined": false
+      },
+      {
+        "text": "reconozcan",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": " mis ",
+        "userDefined": false
+      },
+      {
+        "text": "créditos",
+        "alias": "Creditos1",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9a33b49-81ea-460b-8b63-3e1ad791f52c",
+    "data": [
+      {
+        "text": "Entregar para ",
+        "userDefined": false
+      },
+      {
+        "text": "reconocer",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": " mis ",
+        "userDefined": false
+      },
+      {
+        "text": "creditos",
+        "alias": "Creditos1",
+        "meta": "@Creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a757996-46aa-4e99-b33b-7d9e751ac879",
+    "data": [
+      {
+        "text": "Que entrego al ",
+        "userDefined": false
+      },
+      {
+        "text": "volver",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " para que me den mis ",
+        "userDefined": false
+      },
+      {
+        "text": "creditos",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2d2d317-d690-439c-802e-6719ffeb6e2e",
+    "data": [
+      {
+        "text": "Que entrego al ",
+        "userDefined": false
+      },
+      {
+        "text": "volver",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " para que me ",
+        "userDefined": false
+      },
+      {
+        "text": "reconozcan",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": " mis ",
+        "userDefined": false
+      },
+      {
+        "text": "creditos",
+        "alias": "Creditos1",
+        "meta": "@Creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93da0cb2-5d3d-4289-a000-45ca0e0dea5b",
+    "data": [
+      {
+        "text": "Que tengo que hacer a la ",
+        "userDefined": false
+      },
+      {
+        "text": "vuelta",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " para que me ",
+        "userDefined": false
+      },
+      {
+        "text": "reconozcan",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": " los ",
+        "userDefined": false
+      },
+      {
+        "text": "creditos",
+        "alias": "Creditos1",
+        "meta": "@Creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77563238-9600-4c0a-9947-4ba2adf620a5",
+    "data": [
+      {
+        "text": "Que tengo que entregar a la ",
+        "userDefined": false
+      },
+      {
+        "text": "vuelta",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "reconocer",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "creditos",
+        "alias": "Creditos1",
+        "meta": "@Creditos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6753ebc-be4b-4011-a71d-405db4592f32",
+    "data": [
+      {
+        "text": "¿Que tengo que entregar para que me ",
+        "userDefined": false
+      },
+      {
+        "text": "reconozcan",
+        "alias": "Creditos",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": " los ",
+        "userDefined": false
+      },
+      {
+        "text": "creditos",
+        "alias": "Creditos1",
+        "meta": "@Creditos",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

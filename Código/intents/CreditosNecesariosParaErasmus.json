@@ -1,0 +1,59 @@
+{
+  "id": "b4f67c35-7db3-431b-aef5-f4a9f9c7ff7f",
+  "name": "CreditosNecesariosParaErasmus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9a5c972-bc58-4c29-bb41-cbd52082e72c",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "d7f454f9-99a5-4d67-99c7-9abadcc8f447",
+          "required": false,
+          "dataType": "@SeleccionOpciones",
+          "name": "SeleccionOpciones",
+          "value": "$SeleccionOpciones",
+          "isList": false
+        },
+        {
+          "id": "8e65c392-a284-4e76-ae86-4aa20e872e23",
+          "required": false,
+          "dataType": "@Curso",
+          "name": "Curso",
+          "value": "$Curso",
+          "isList": false
+        },
+        {
+          "id": "c35b4a3d-3620-47dc-850b-17899a002dbd",
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

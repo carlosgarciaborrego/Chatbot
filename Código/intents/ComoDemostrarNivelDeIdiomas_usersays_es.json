@@ -1,0 +1,121 @@
+[
+  {
+    "id": "0eccabf0-5eb6-49d8-bcc5-d04a1e2c35b3",
+    "data": [
+      {
+        "text": "¿Cómo puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "demostrar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      },
+      {
+        "text": " mi nivel de idioma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce790c8b-1bc7-4ecb-b095-806ab8d9643a",
+    "data": [
+      {
+        "text": "y como lo ",
+        "userDefined": false
+      },
+      {
+        "text": "demuestro",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37d61c20-b168-433c-b98e-7f0a952b8e02",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "demostrar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      },
+      {
+        "text": " mi nivel de idiomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "324fcf14-47ac-400d-bb5d-5a0659060a25",
+    "data": [
+      {
+        "text": "demostrar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      },
+      {
+        "text": " mi nivel de idiomas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b11670a-1af4-4c4d-8a42-b9a7138eaa6d",
+    "data": [
+      {
+        "text": "ComoDemostrarNivelDeIdiomas",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f736d83e-4e29-4fde-940c-4bb21cbaeecc",
+    "data": [
+      {
+        "text": "DemostrarNivelDeIdiomas",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfebb1f4-3c96-46fc-9d6f-98181b5623eb",
+    "data": [
+      {
+        "text": "Demostrar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      },
+      {
+        "text": " mi nivel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

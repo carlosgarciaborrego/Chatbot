@@ -1,0 +1,87 @@
+[
+  {
+    "id": "6cf70204-f500-4a3f-bb3e-e0a66612c155",
+    "data": [
+      {
+        "text": "no puedo acceder a Sevius",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52802ca7-2c37-4103-898a-dab9419d046a",
+    "data": [
+      {
+        "text": "Sevius",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "087854ca-3473-463f-b1a7-c7aaa7e38509",
+    "data": [
+      {
+        "text": "no puedo entrar en Sevius",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc83df56-297e-480c-a0fd-40ef3926ee7d",
+    "data": [
+      {
+        "text": "No puedo meter mi ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " en Sevius y la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " me lo reclama ¿qué debo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b019fa1f-3b80-4342-aa54-e804723478a1",
+    "data": [
+      {
+        "text": "no puedo meterme en Sevius",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

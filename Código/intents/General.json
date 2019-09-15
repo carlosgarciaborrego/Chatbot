@@ -1,0 +1,36 @@
+{
+  "id": "ddee5534-a95b-465e-b826-4bb5b6e4e0d1",
+  "name": "General",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e19e2d1-2d61-49aa-bde5-5a968850e7f0",
+          "required": false,
+          "dataType": "@Informacion",
+          "name": "Informacion",
+          "value": "$Informacion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

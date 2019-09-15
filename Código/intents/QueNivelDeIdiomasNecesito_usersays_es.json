@@ -1,0 +1,99 @@
+[
+  {
+    "id": "405fa693-bb27-4a5a-80d4-950100ffd941",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "nivel me piden",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ceeb6d01-6a43-4f1f-a1eb-4ee422b34970",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Qué nivel de idioma me piden",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c7213a4-5213-4b00-867b-61a540871c2a",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Qué nivel de idioma necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a9d6cb0-11c5-431e-9c75-4596610f5a3f",
+    "data": [
+      {
+        "text": "¿Qué nivel ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80023387-7356-4ba6-b433-759a29386fe5",
+    "data": [
+      {
+        "text": "QueNivelDeIdiomasNecesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

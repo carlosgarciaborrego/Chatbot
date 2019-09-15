@@ -1,0 +1,9 @@
+{
+  "id": "74fcd76d-58b9-44fc-81fa-cf1e9d8be742",
+  "name": "Asignaturas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

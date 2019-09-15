@@ -1,0 +1,249 @@
+[
+  {
+    "id": "da4eae7a-6ba9-4071-ae8d-d23fb7f9731d",
+    "data": [
+      {
+        "text": "Quiero dejar algunas ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": ", pero la ",
+        "userDefined": false
+      },
+      {
+        "text": "automatrícula",
+        "alias": "Automatricula",
+        "meta": "@Automatricula",
+        "userDefined": true
+      },
+      {
+        "text": ", no me deja ¿qué hago?\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d0d7a6c-3ce4-4d85-8c9a-b2ce25a22207",
+    "data": [
+      {
+        "text": "¿Como dejo ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cf7459d-3031-42ce-a98d-66cb8a0f6d58",
+    "data": [
+      {
+        "text": "Voy a dejar algunas ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "cursos",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " intermedios sin ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": ", pero la aplicación de ",
+        "userDefined": false
+      },
+      {
+        "text": "automatrícula",
+        "alias": "Automatricula",
+        "meta": "@Automatricula",
+        "userDefined": true
+      },
+      {
+        "text": ", no me deja ¿qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7e1bb10-1f45-4c40-a017-e2d4753078fd",
+    "data": [
+      {
+        "text": "¿Como puedo dejar ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14c090ea-e094-4839-98b1-f212718b7ecb",
+    "data": [
+      {
+        "text": "Quiero dejar ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": ", pero no puedo ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f28a5dbe-5104-43c5-834e-11d0bf3b5e63",
+    "data": [
+      {
+        "text": "Quiero dejar ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " sin ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " pero no me deja ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94c9d9e1-2a18-4319-841b-f99b6dd69357",
+    "data": [
+      {
+        "text": "La ",
+        "userDefined": false
+      },
+      {
+        "text": "automatricula",
+        "alias": "Automatricula",
+        "meta": "@Automatricula",
+        "userDefined": false
+      },
+      {
+        "text": " no me permite no dejar ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

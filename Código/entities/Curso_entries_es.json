@@ -1,0 +1,51 @@
+[
+  {
+    "value": "Acreditar",
+    "synonyms": [
+      "Acreditar",
+      "Acreditacion",
+      "Cumplimentar",
+      "probar",
+      "justificar"
+    ]
+  },
+  {
+    "value": "Demostrar",
+    "synonyms": [
+      "Demostrar",
+      "indicar",
+      "demuestro",
+      "indico",
+      "ComoDemostrarNivelIdiomas",
+      "ComoDemostrarNivelDeIdiomas"
+    ]
+  },
+  {
+    "value": "queNivelDeIdiomasNecesito",
+    "synonyms": [
+      "QueNivelDeIdiomasNecesito",
+      "que nivel de idiomas necesito",
+      "que nivel de idiomas me piden",
+      "necesito",
+      "nivel necesito",
+      "nivel me piden"
+    ]
+  },
+  {
+    "value": "Curso",
+    "synonyms": [
+      "Curso",
+      "ultimo curso",
+      "ultimo año",
+      "acabar este año",
+      "acabo este curso",
+      "acabo este año",
+      "termino este año",
+      "termino este curso",
+      "MiUltimoCurso",
+      "UltimoCurso",
+      "IrmeEnMiUltimoCurso",
+      "IrmeEnMiUltimoAño"
+    ]
+  }
+]

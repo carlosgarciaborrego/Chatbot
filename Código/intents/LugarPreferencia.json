@@ -1,0 +1,52 @@
+{
+  "id": "4b7d60c5-231f-495b-adb2-ba841cd7dc08",
+  "name": "LugarPreferencia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4b0da33-9c77-4397-982b-d42d7db7fe18",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "06ecb2bf-abf6-4a59-b098-2cfd46a5611a",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares1",
+          "value": "$Lugares1",
+          "isList": false
+        },
+        {
+          "id": "fd5dca9e-369a-4e31-89c5-c34d451ecc1f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

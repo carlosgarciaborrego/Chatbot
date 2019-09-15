@@ -1,0 +1,44 @@
+{
+  "id": "815cf9c3-1909-4fa1-915b-13634f26a69f",
+  "name": "PlanesEstudioDestinos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cd5323be-655c-4618-8d56-9a720f0ce397",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "481fefb3-66f1-4e07-b756-1bbce75d5486",
+          "required": false,
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

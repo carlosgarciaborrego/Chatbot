@@ -1,0 +1,52 @@
+{
+  "id": "e4739bab-ce5f-49d9-a9a7-50be60d6f337",
+  "name": "ContactoOtrosAlumnos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55e95022-b817-48c3-992a-ad28b5abe32f",
+          "required": false,
+          "dataType": "@Comunicarse",
+          "name": "Comunicarse",
+          "value": "$Comunicarse",
+          "isList": false
+        },
+        {
+          "id": "f985281e-7a2c-4754-8c03-2db6413ae21b",
+          "required": false,
+          "dataType": "@Anteriormente",
+          "name": "Anteriormente",
+          "value": "$Anteriormente",
+          "isList": true
+        },
+        {
+          "id": "da4447c7-ecf1-4f17-8e1a-6adc8303a6bd",
+          "required": false,
+          "dataType": "@Alumno",
+          "name": "Alumno",
+          "value": "$Alumno",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

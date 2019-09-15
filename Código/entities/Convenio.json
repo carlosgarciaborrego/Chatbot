@@ -1,0 +1,9 @@
+{
+  "id": "88bcd34a-918a-4260-998d-dd94d09d65e1",
+  "name": "Convenio",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

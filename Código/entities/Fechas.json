@@ -1,0 +1,9 @@
+{
+  "id": "ca9d451f-bea1-4aec-8d08-997743423649",
+  "name": "Fechas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

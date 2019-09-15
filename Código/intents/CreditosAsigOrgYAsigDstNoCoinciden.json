@@ -1,0 +1,49 @@
+{
+  "id": "c6726397-6f96-48ff-b32f-fd57833176bc",
+  "name": "CreditosAsigOrgYAsigDstNoCoinciden",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f5d25648-971f-463d-98e7-abf59004386d",
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas",
+          "value": "$Asignaturas",
+          "isList": false
+        },
+        {
+          "id": "31f2bf3d-7917-4568-87dd-eadd9b1e4956",
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "0446202c-dd27-42e4-82fd-af38a3a2706f",
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

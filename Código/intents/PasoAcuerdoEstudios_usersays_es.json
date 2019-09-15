@@ -1,0 +1,104 @@
+[
+  {
+    "id": "e1e1f4e0-66ba-473f-b122-cc0da0cc9bf9",
+    "data": [
+      {
+        "text": "que hago para ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7579ce39-e94f-45ac-b034-4ebfd1d19eb2",
+    "data": [
+      {
+        "text": "como modifico el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "912e8be9-5189-4b34-807d-afbbcbc7854d",
+    "data": [
+      {
+        "text": "¿Cómo puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7555fb1-5a48-440b-b841-726c40de4940",
+    "data": [
+      {
+        "text": "Pasos para ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

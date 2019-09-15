@@ -1,0 +1,36 @@
+{
+  "id": "083be6b4-53e8-4cf8-bd56-f0473227cce7",
+  "name": "QueNivelDeIdiomasNecesito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ba88ab65-8e4c-473c-8716-949c30dfc3d4",
+          "required": false,
+          "dataType": "@Curso",
+          "name": "Curso",
+          "value": "$Curso",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Me llamo Ralph"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

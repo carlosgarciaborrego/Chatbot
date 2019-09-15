@@ -1,0 +1,59 @@
+{
+  "id": "cd250820-10cb-4cfc-bf5e-e980f817681e",
+  "name": "NoMatricularAsigAutoMatriculaNoDeja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00f18f73-5399-4ef1-95e1-f2641d61a0af",
+          "required": false,
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas",
+          "value": "$Asignaturas",
+          "isList": false
+        },
+        {
+          "id": "b6e60d93-9122-4714-a007-0a0be675c378",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "a1333651-8cbd-4e01-8958-a2a18dc8ef72",
+          "required": false,
+          "dataType": "@Curso",
+          "name": "Curso",
+          "value": "$Curso",
+          "isList": false
+        },
+        {
+          "id": "cdf2847d-4514-403c-be55-fbebeb605479",
+          "dataType": "@Automatricula",
+          "name": "Automatricula",
+          "value": "$Automatricula",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

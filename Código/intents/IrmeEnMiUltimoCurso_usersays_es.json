@@ -1,0 +1,207 @@
+[
+  {
+    "id": "535b3c8f-a890-4d0c-a695-ab7418cfca06",
+    "data": [
+      {
+        "text": "IrmeEnMiUltimoCurso",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9391f405-951b-4fb7-8a92-1eec45e01939",
+    "data": [
+      {
+        "text": "Acabo este año",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿puedo ir de erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4743753b-b547-4770-8596-4ec008e4549d",
+    "data": [
+      {
+        "text": "me puedo ir de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " si ",
+        "userDefined": false
+      },
+      {
+        "text": "acabo el año",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " que viene?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4efd8c2-3275-4cae-b5ab-85e8c8261ee2",
+    "data": [
+      {
+        "text": "IrmeEnMiUltimoAño",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "950f0971-eb56-445e-8b0e-0166319c64cd",
+    "data": [
+      {
+        "text": "Estoy en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "último curso",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": ",¿me puedo ir de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "el año",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que viene?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d305c462-e8e0-4ca8-b6be-b604598348d4",
+    "data": [
+      {
+        "text": "Estoy en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "ultimo año",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c5c4e79-e80c-4de4-98ea-e40b7a181898",
+    "data": [
+      {
+        "text": "termino la carrera",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      },
+      {
+        "text": ".¿Puedo ir de erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a2b68dd-ca0f-4567-9269-4eab11d05363",
+    "data": [
+      {
+        "text": "Estoy en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "ultimo curso",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": ",¿me puedo ir de Erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02fb1639-b033-4d36-9261-ffb39638d6d2",
+    "data": [
+      {
+        "text": "Es mi ",
+        "userDefined": false
+      },
+      {
+        "text": "ultimo curso",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39a47d36-d5fd-4fe9-84dc-9b7f8c4df00b",
+    "data": [
+      {
+        "text": "si ",
+        "userDefined": false
+      },
+      {
+        "text": "termino este año",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": ", puedo ir de erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

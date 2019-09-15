@@ -1,0 +1,177 @@
+[
+  {
+    "id": "235bef4b-94bd-46bf-a66c-e5c54d37a5e9",
+    "data": [
+      {
+        "text": "¿Que hago si no encuentro equivalente de alguna ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "plan de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f4eda8f-936e-4f61-972b-56fbef226937",
+    "data": [
+      {
+        "text": "Me interesa hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", pero no encuentro equivalencia para ella con las de mi ",
+        "userDefined": false
+      },
+      {
+        "text": "plan de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " ¿qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8bb80be-b1ee-48cf-8796-177d6f2e30e9",
+    "data": [
+      {
+        "text": "Si no encuentro equivalencia ",
+        "userDefined": false
+      },
+      {
+        "text": "de una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8481c139-4fc2-474e-b587-32cf9065695c",
+    "data": [
+      {
+        "text": "¿Que hago si no encuentro equivalente de alguna ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5d5bfd6-f7ce-4650-bcd6-a2eb6078c3d8",
+    "data": [
+      {
+        "text": "Me interesa hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", pero no encuentro equivalencia ¿qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

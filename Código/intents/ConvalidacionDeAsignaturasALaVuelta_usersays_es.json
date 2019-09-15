@@ -1,0 +1,95 @@
+[
+  {
+    "id": "cab8baab-3405-4ddd-b575-3a9aa159e7a7",
+    "data": [
+      {
+        "text": "¿Las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " que haga en el extranjero se me van a ",
+        "userDefined": false
+      },
+      {
+        "text": "reconocer",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": true
+      },
+      {
+        "text": " a mi vuelta, o tendré que extender mis estudios un año mas de lo esperado para terminar mi carrera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3de24b6-3d42-4b3b-9ca8-7b247ce6a5f5",
+    "data": [
+      {
+        "text": "¿Despues del Erasmus se ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidan",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d90a2551-4cb4-4bc6-af40-65d132c24898",
+    "data": [
+      {
+        "text": "¿Se ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidan",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " a la vuelta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

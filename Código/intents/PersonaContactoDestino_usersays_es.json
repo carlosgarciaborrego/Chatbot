@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1abfdb84-9ece-49cc-91b7-e3be8f53861c",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "persona",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      },
+      {
+        "text": " pongo en la documentación de la ",
+        "userDefined": false
+      },
+      {
+        "text": "Universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de origen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7694571e-a4c6-4722-9e0d-d889069f0b2f",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      },
+      {
+        "text": " pongo en la documentacion de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de origen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4c8cc32-f2db-4933-a498-bf1f40be860b",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "persona",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      },
+      {
+        "text": " pongo en la documentacion de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de origen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9076e015-7293-41de-a0fc-594d9b54aad7",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "persona",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": false
+      },
+      {
+        "text": " pongo como ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      },
+      {
+        "text": " en la documentacion de la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de origen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

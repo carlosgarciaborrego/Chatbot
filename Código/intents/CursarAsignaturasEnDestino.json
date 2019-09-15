@@ -1,0 +1,76 @@
+{
+  "id": "bfeadb08-20f1-403c-bf19-1e3d5f526f51",
+  "name": "CursarAsignaturasEnDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a81deb34-e1d1-4447-bd36-b3b085d80ca3",
+          "required": false,
+          "dataType": "@Curso",
+          "name": "Curso",
+          "value": "$Curso",
+          "isList": false
+        },
+        {
+          "id": "58aa0180-5a04-4930-a664-3a1934e477e2",
+          "required": false,
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas",
+          "value": "$Asignaturas",
+          "isList": false
+        },
+        {
+          "id": "72612c73-e408-48b5-8517-6288c14544e9",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "37565dbd-2e1d-4c10-a48e-8a63956a19be",
+          "required": false,
+          "dataType": "@Asignaturas",
+          "name": "Asignaturas1",
+          "value": "$Asignaturas1",
+          "isList": false
+        },
+        {
+          "id": "6384d4a0-2823-4dc1-8ff7-75d87307fa2a",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "0f794c3d-12bd-4788-9813-d3cd8c67eb0f",
+          "required": false,
+          "dataType": "@US",
+          "name": "US",
+          "value": "$US",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

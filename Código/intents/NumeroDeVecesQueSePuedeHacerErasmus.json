@@ -1,0 +1,35 @@
+{
+  "id": "7b458742-cb9b-4110-a65e-9d0f6245a9d8",
+  "name": "NumeroDeVecesQueSePuedeHacerErasmus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d924434f-9865-4a1c-898b-d8ec8be27e4b",
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

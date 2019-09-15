@@ -1,0 +1,188 @@
+[
+  {
+    "id": "58f8c7db-fd2d-411d-9b3c-daafa5dbbafa",
+    "data": [
+      {
+        "text": "ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b3a042d-2240-4a2b-8364-79eb5a8d77da",
+    "data": [
+      {
+        "text": "no me sirven las respuestas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57c55845-4c32-4819-b34f-5bd47520886b",
+    "data": [
+      {
+        "text": "No resuelve mi ",
+        "userDefined": false
+      },
+      {
+        "text": "duda",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0eeb900-ddf8-4474-86d2-da5dbea18664",
+    "data": [
+      {
+        "text": "Sigo teniendo ",
+        "userDefined": false
+      },
+      {
+        "text": "dudas",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31d81147-83d7-4678-a85f-31efd76c3035",
+    "data": [
+      {
+        "text": "No me lo ha dejado claro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09dd3b60-5cbc-45b9-83a8-793235a69678",
+    "data": [
+      {
+        "text": "No me ha solucionado la ",
+        "userDefined": false
+      },
+      {
+        "text": "duda",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3249ad27-1605-491e-9edc-49fba15d5380",
+    "data": [
+      {
+        "text": "No me ha aclarado la ",
+        "userDefined": false
+      },
+      {
+        "text": "duda",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2a7f285-6a21-4488-9db3-8d80fe4652e7",
+    "data": [
+      {
+        "text": "SIgo teniendo ",
+        "userDefined": false
+      },
+      {
+        "text": "preguntas",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fb2e953-af59-4f17-ada1-e41189eba245",
+    "data": [
+      {
+        "text": "No me ha solucionado la ",
+        "userDefined": false
+      },
+      {
+        "text": "pregunta",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb04debb-c9ad-44fe-aab6-a7a73460ced1",
+    "data": [
+      {
+        "text": "No responde mi ",
+        "userDefined": false
+      },
+      {
+        "text": "pregunta",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bbbc269-cf5a-4dfa-9830-680dc66bd1ce",
+    "data": [
+      {
+        "text": "Sigo con ",
+        "userDefined": false
+      },
+      {
+        "text": "dudas",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee6f8525-2ac3-40b7-a524-9b8909d66fa6",
+    "data": [
+      {
+        "text": "No responde a mi ",
+        "userDefined": false
+      },
+      {
+        "text": "pregunta",
+        "alias": "Pregunta",
+        "meta": "@Pregunta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

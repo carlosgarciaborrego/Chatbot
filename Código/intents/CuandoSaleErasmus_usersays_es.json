@@ -1,0 +1,156 @@
+[
+  {
+    "id": "c5c881a1-5ba2-49f4-9a46-618728e64fd6",
+    "data": [
+      {
+        "text": "En que ",
+        "userDefined": false
+      },
+      {
+        "text": "fecha",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      },
+      {
+        "text": " es la erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b06dc32-f30f-4f74-83fa-03d885abc54c",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Cuando se oferta",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": true
+      },
+      {
+        "text": " la Erasmus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1ea311d-a91a-4d18-a150-8fae78416bae",
+    "data": [
+      {
+        "text": "¿Cuándo ",
+        "userDefined": false
+      },
+      {
+        "text": "sale",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b27e6d9-14a4-42a3-8d0e-72a8d70ec4e0",
+    "data": [
+      {
+        "text": "¿En qué ",
+        "userDefined": false
+      },
+      {
+        "text": "fecha",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sale",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      },
+      {
+        "text": " la Erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f1f8e73-6f3b-44da-a843-a91b6fd3f987",
+    "data": [
+      {
+        "text": "Cuando es",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      },
+      {
+        "text": " la Erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3903e2c4-3322-43a2-a915-cdc56b7252c1",
+    "data": [
+      {
+        "text": "¿Cuando ",
+        "userDefined": false
+      },
+      {
+        "text": "sale",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      },
+      {
+        "text": " la erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c05145d7-da35-480c-bd79-5dedcb62a134",
+    "data": [
+      {
+        "text": "CuandoSaleErasmus",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "0d9ed73f-35a4-491d-9de9-4a6b1f9790da",
+  "name": "EcuacionNotaMedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4e74727a-c503-4110-992c-be9ef0b220e6",
+          "required": false,
+          "dataType": "@Nota",
+          "name": "Nota",
+          "value": "$Nota",
+          "isList": false
+        },
+        {
+          "id": "8b612c87-7899-4244-b224-bec3aa418057",
+          "required": false,
+          "dataType": "@Nota",
+          "name": "Nota1",
+          "value": "$Nota1",
+          "isList": false
+        },
+        {
+          "id": "a7548593-1819-47b2-9164-909f548e1952",
+          "dataType": "@Ecuacion",
+          "name": "Ecuacion",
+          "value": "$Ecuacion",
+          "isList": false
+        },
+        {
+          "id": "103752ce-5cc0-4983-acf2-e80ac5fb0db4",
+          "dataType": "@Ecuacion",
+          "name": "Ecuacion1",
+          "value": "$Ecuacion1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

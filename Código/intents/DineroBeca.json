@@ -1,0 +1,44 @@
+{
+  "id": "37b219c3-1e61-42ff-a28e-5339276e57e3",
+  "name": "DineroBeca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "70efa557-3e46-4822-a908-efc7c40a4192",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": false
+        },
+        {
+          "id": "d80f77ed-0abe-460e-b5e0-39f972288631",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero1",
+          "value": "$Dinero1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "50745723-4f63-45ae-95ff-489025143a23",
+  "name": "TFG",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "27ef53d0-60a7-4c38-94b0-894a032dba1c",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "d7d0296b-44f9-4bd0-a213-5703e412cdf5",
+          "dataType": "@TFG",
+          "name": "TFG",
+          "value": "$TFG",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bdca9caa-0292-48de-89e5-58bbb00c8256",
+  "name": "ComoCambiarMatricula",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a4ff05ac-6c98-4047-8d0f-48f0450f9f4d",
+          "required": false,
+          "dataType": "@CambiarDestino",
+          "name": "CambiarDestino",
+          "value": "$CambiarDestino",
+          "isList": false
+        },
+        {
+          "id": "101f65ca-efb3-4950-887d-b9563e5eedad",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

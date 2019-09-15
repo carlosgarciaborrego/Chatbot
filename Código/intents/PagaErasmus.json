@@ -1,0 +1,51 @@
+{
+  "id": "51494268-3d77-492a-b2f8-9d6c6403f8f7",
+  "name": "PagaErasmus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90ff562c-3ac5-464d-aa1d-2b8fd74a44c1",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": false
+        },
+        {
+          "id": "57860a5d-b5db-45b8-b460-6b8b25694310",
+          "required": false,
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        },
+        {
+          "id": "1552c90e-0811-4bb2-a623-5c1c90810f4d",
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

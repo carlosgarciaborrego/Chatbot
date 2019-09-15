@@ -1,0 +1,52 @@
+{
+  "id": "1c506eac-9549-45ca-abd6-4372b16565a3",
+  "name": "LatinoamericaDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d51bce5-30ed-460a-99c6-e6d7dfc04333",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": false
+        },
+        {
+          "id": "df132c5f-8586-496e-88cb-5ab5a4eddeab",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": true
+        },
+        {
+          "id": "d12b452d-0626-4e74-8d3c-17185ee05b1a",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares1",
+          "value": "$Lugares1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

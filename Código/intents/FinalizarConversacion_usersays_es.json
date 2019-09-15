@@ -1,0 +1,114 @@
+[
+  {
+    "id": "a2f2d093-8267-4a67-afa8-05e3f8a5ac7e",
+    "data": [
+      {
+        "text": "gracias por la ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cae19712-ec1c-48d3-9dff-48e66b4f9cc2",
+    "data": [
+      {
+        "text": "Gracias por todo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fcd1532-9eaf-4e91-9b4b-469c04de5078",
+    "data": [
+      {
+        "text": "Adiós",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "573bee0b-aac3-4967-aaee-89517225cae5",
+    "data": [
+      {
+        "text": "Adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43f3d5e5-77ad-4f8d-b7a8-126bcb79858a",
+    "data": [
+      {
+        "text": "terminar la ",
+        "userDefined": false
+      },
+      {
+        "text": "conversacion",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e57455f4-220e-4921-9edf-023860fff049",
+    "data": [
+      {
+        "text": "finalizar la ",
+        "userDefined": false
+      },
+      {
+        "text": "conversacion",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ef8f7dc-0c41-4314-8a3d-08b72f1af47d",
+    "data": [
+      {
+        "text": "Terminar ",
+        "userDefined": false
+      },
+      {
+        "text": "conversacion",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2343ee33-e52d-4c97-b657-ca392aea1386",
+    "data": [
+      {
+        "text": "Finalizar ",
+        "userDefined": false
+      },
+      {
+        "text": "Conversación",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

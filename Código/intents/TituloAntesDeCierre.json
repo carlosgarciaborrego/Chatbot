@@ -1,0 +1,36 @@
+{
+  "id": "b9d4544b-3cc2-48e3-9a09-0c1e31e2c7dc",
+  "name": "TituloAntesDeCierre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30f1516e-c863-4048-afbc-0fac931c4923",
+          "required": false,
+          "dataType": "@Fechas",
+          "name": "Fechas",
+          "value": "$Fechas",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

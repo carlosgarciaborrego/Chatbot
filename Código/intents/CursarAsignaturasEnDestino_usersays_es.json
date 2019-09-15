@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ce357002-5a63-4caa-a7ea-8ce330dba7d0",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cursar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " en vuestro ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " y también otras ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas1",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "US",
+        "meta": "@US",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10f33cce-eb64-475b-8e65-dd10a3571761",
+    "data": [
+      {
+        "text": "¿Se puede ",
+        "userDefined": false
+      },
+      {
+        "text": "cursar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " asginaturas en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " y en la ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "US",
+        "meta": "@US",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81e8ab53-6f67-4eca-9211-4a101b069438",
+    "data": [
+      {
+        "text": "¿Se puede ",
+        "userDefined": false
+      },
+      {
+        "text": "cursar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " en la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " y en la ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "US",
+        "meta": "@US",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c67f577d-1bfb-4a3d-addc-0227c76d0767",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cursar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " y en la ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "US",
+        "meta": "@US",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

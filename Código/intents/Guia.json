@@ -1,0 +1,35 @@
+{
+  "id": "c6eadd3e-98df-4056-ad17-18668440e425",
+  "name": "Guia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56ec0228-1e57-450b-8efc-6a700d697c24",
+          "dataType": "@Informacion",
+          "name": "Informacion",
+          "value": "$Informacion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "a1a42193-b30c-4341-af39-c021fc00e63d",
+  "name": "TranscriptOfRecords",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

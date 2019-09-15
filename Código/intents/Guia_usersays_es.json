@@ -1,0 +1,97 @@
+[
+  {
+    "id": "64d165c1-3ed3-4a07-9ab7-a13f3d67b1f0",
+    "data": [
+      {
+        "text": "Inicio",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b766eca8-140d-4725-85e6-41f89291cf75",
+    "data": [
+      {
+        "text": "comenzar",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fac0c64-0960-4311-8ae9-ae4634b6538e",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "indice",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09c7b86f-798d-4d2a-b131-96b8d9736b9c",
+    "data": [
+      {
+        "text": "por donde empezar",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c46271d-c68d-4a25-a16a-dea760f96baf",
+    "data": [
+      {
+        "text": "Paso a paso",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "401851eb-b031-47db-a0eb-378474e056b5",
+    "data": [
+      {
+        "text": "Guia",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

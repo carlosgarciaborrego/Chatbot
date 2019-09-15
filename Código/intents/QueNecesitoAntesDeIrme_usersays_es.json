@@ -1,0 +1,127 @@
+[
+  {
+    "id": "3eaaf4cf-b9f2-4725-8d07-94855914acb5",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " algo para irme de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be592eb9-6d7f-47e8-b634-38e84370a32f",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " antes de irme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf7716de-b82c-4364-8f46-b19da77dde8e",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " algo para irme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db8593f6-d76f-4ccc-80a5-2eb467ffa029",
+    "data": [
+      {
+        "text": "¿Que ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " para irme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3f15fe6-c750-4b82-94ed-bf5499238bfd",
+    "data": [
+      {
+        "text": "¿Que ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " para irme de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

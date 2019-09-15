@@ -1,0 +1,36 @@
+[
+  {
+    "value": "residencia",
+    "synonyms": [
+      "Residencia",
+      "residencia",
+      "domicilio",
+      "lugar de estancia",
+      "estancia",
+      "casa",
+      "casa compartida",
+      "donde quedarse",
+      "casas",
+      "domicilios",
+      "estancias",
+      "residencia",
+      "residencias",
+      "piso",
+      "pisos",
+      "vivienda",
+      "viviendas",
+      "alojamiento",
+      "alojamientos"
+    ]
+  },
+  {
+    "value": "vuelo",
+    "synonyms": [
+      "Vuelo",
+      "vuelo",
+      "avion",
+      "billete de avion",
+      "viajar"
+    ]
+  }
+]

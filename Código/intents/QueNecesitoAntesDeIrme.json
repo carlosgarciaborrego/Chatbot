@@ -1,0 +1,42 @@
+{
+  "id": "d4001cce-96c1-45fd-9287-18eb7d5eaab0",
+  "name": "QueNecesitoAntesDeIrme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bca5f205-8ed4-4680-a058-735f1c93c248",
+          "dataType": "@Curso",
+          "name": "Curso",
+          "value": "$Curso",
+          "isList": false
+        },
+        {
+          "id": "5297f042-5c61-4150-ba1a-1582859c2ff4",
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "value": "SaleErasmus",
+    "synonyms": [
+      "Sale",
+      "cuando es",
+      "fecha",
+      "SaleErasmus",
+      "CuandoSaleErasmus"
+    ]
+  },
+  {
+    "value": "TituloAntesDelCierre",
+    "synonyms": [
+      "TituloAntesDeCierre",
+      "titulo antes de cierre",
+      "cierre de convocatoria"
+    ]
+  }
+]

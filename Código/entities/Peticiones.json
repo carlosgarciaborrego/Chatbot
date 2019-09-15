@@ -1,0 +1,9 @@
+{
+  "id": "f9b74f15-1888-41ee-9ad8-2ca71a4bb49a",
+  "name": "Peticiones",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

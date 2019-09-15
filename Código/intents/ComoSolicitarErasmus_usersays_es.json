@@ -1,0 +1,168 @@
+[
+  {
+    "id": "7ddbabe5-e86b-4eac-a4df-1e451f61292f",
+    "data": [
+      {
+        "text": "ComoSolicitarErasmus",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ecb2e301-5ebc-47a1-b69c-e8e9f64054f0",
+    "data": [
+      {
+        "text": "donde ",
+        "userDefined": false
+      },
+      {
+        "text": "solicito",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70d6b663-4f8c-4620-93d7-b243608c5687",
+    "data": [
+      {
+        "text": "¿Cómo puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "solicitar",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": false
+      },
+      {
+        "text": " la Erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2ebbd67-8471-4579-9cd1-c064c30bf4a9",
+    "data": [
+      {
+        "text": "¿Como ",
+        "userDefined": false
+      },
+      {
+        "text": "solicito",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": true
+      },
+      {
+        "text": " la erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "367e3716-1475-4cee-aaab-34a6bdeb3d3c",
+    "data": [
+      {
+        "text": "Solicitar",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": false
+      },
+      {
+        "text": " Erasmus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c9cfa19-1d4d-49f1-a3b1-a64bc0968a66",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "solicito",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": false
+      },
+      {
+        "text": " la erasmus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20466801-b590-47d0-af9b-8d824d796adb",
+    "data": [
+      {
+        "text": "¿Cómo ",
+        "userDefined": false
+      },
+      {
+        "text": "puedo pedir",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": false
+      },
+      {
+        "text": " la Erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3d136a6-2a7b-4e6c-8ec8-116805b6c308",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "solicitar",
+        "alias": "Peticiones",
+        "meta": "@Peticiones",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

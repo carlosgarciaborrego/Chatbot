@@ -1,0 +1,37 @@
+{
+  "id": "4d2c6bb6-e84a-4364-a0d3-4045dab6c39e",
+  "name": "AnexoDestinosOfertados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad747aae-3a60-433d-af3c-2db33f6dd115",
+          "required": false,
+          "dataType": "@Informacion",
+          "name": "Informacion",
+          "value": "$Informacion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

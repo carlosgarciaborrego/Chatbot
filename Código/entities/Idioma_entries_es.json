@@ -1,0 +1,43 @@
+[
+  {
+    "value": "Italiano",
+    "synonyms": [
+      "Italiano",
+      "italiano"
+    ]
+  },
+  {
+    "value": "Ingles",
+    "synonyms": [
+      "Ingles",
+      "Inglés",
+      "ingles",
+      "inglés",
+      "idioma de ingles",
+      "acreditacion en ingles",
+      "B1 en ingles",
+      "B2 en ingles",
+      "C1 en ingles",
+      "acreditado el ingles",
+      "idioma ingles"
+    ]
+  },
+  {
+    "value": "Frances",
+    "synonyms": [
+      "Frances",
+      "frances",
+      "francés",
+      "Francés"
+    ]
+  },
+  {
+    "value": "Aleman",
+    "synonyms": [
+      "Aleman",
+      "aleman",
+      "alemán",
+      "Alemán"
+    ]
+  }
+]

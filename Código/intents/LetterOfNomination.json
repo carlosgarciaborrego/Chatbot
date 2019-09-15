@@ -1,0 +1,44 @@
+{
+  "id": "a6cd158f-7884-4fc0-a2fe-a0b141b103a2",
+  "name": "LetterOfNomination",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f93aba2-e205-43cb-835a-bd8862852f51",
+          "required": false,
+          "dataType": "@Peticiones",
+          "name": "Peticiones",
+          "value": "$Peticiones",
+          "isList": false
+        },
+        {
+          "id": "90f29f46-c822-4205-8277-a2967cde90aa",
+          "required": false,
+          "dataType": "@LetterOfNomination",
+          "name": "LetterOfNomination",
+          "value": "$LetterOfNomination",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

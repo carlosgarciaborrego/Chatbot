@@ -1,0 +1,209 @@
+[
+  {
+    "id": "6ff9e549-1487-4a41-aba7-45b483335332",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " deberia llegar al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e663ddf-3821-4102-88d5-2749ade1e71f",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " debo llegar al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0cceb9b-6005-4e5e-b800-d0e2ecd8eb24",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " tengo que irme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9418150f-1af1-4914-aca6-a08b2fcd0183",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " tendria que estar ",
+        "userDefined": false
+      },
+      {
+        "text": "alli",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9586a746-c3f6-4239-83a4-6ca1c03fccc0",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " tengo que estar en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eed9377f-7e0f-4892-8d61-d6d15e0a2ace",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Cuándo",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " debo estar en ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2acc61eb-02e5-4f45-adf9-d8c22ea0049e",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " estar en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "933930ca-cb65-4ab3-96a9-5867859f2bf8",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " tengo que estar en el ",
+        "userDefined": false
+      },
+      {
+        "text": "otro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "país",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

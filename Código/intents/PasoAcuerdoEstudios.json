@@ -1,0 +1,44 @@
+{
+  "id": "bbe207ee-feeb-41e2-bcf9-ed6852622b6e",
+  "name": "PasoAcuerdoEstudios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb12a63d-b070-44bf-8932-113c802ebdc2",
+          "required": false,
+          "dataType": "@CambiarDestino",
+          "name": "CambiarDestino",
+          "value": "$CambiarDestino",
+          "isList": false
+        },
+        {
+          "id": "2403667b-7cd6-4098-8b8e-80c28f0661a6",
+          "required": false,
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

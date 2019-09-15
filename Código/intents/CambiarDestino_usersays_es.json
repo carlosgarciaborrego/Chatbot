@@ -1,0 +1,244 @@
+[
+  {
+    "id": "d5f552b6-8a16-45de-9588-30d892a203e7",
+    "data": [
+      {
+        "text": "me han dado el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que señalé ",
+        "userDefined": false
+      },
+      {
+        "text": "en tercer",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lugar",
+        "alias": "Lugares1",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " de preferencia, pero he ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiado",
+        "alias": "CambiarDestino1",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " de opinión y prefiero irme en el que señalé ",
+        "userDefined": false
+      },
+      {
+        "text": "cuarto",
+        "alias": "time1",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": ", que además he visto que hay plazas libres. ¿Puedo cambiarlo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6a63467-d5a6-4f86-bd1c-53c80c50e58c",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino1",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " porque prefiero ",
+        "userDefined": false
+      },
+      {
+        "text": "otro",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " que puse antes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4906a010-a6e4-48c8-95c4-b417aa287fdb",
+    "data": [
+      {
+        "text": "Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino1",
+        "meta": "@CambiarDestino",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que esta en mi lista de preferencia por el que me han dado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25d12c18-288b-47b8-9cc2-196458f201ae",
+    "data": [
+      {
+        "text": "Cambiar",
+        "alias": "CambiarDestino1",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " ya dado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f93d447-4fc2-41d5-afb5-4f538e28af6c",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino1",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " si ya me han dado plaza?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "634de03e-6454-4790-9079-9b3d80a77999",
+    "data": [
+      {
+        "text": "Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "intercambiar",
+        "alias": "CambiarDestino1",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " mi ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "otro",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " estudiante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

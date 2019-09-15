@@ -1,0 +1,24 @@
+[
+  {
+    "value": "Nota",
+    "synonyms": [
+      "Nota",
+      "Media",
+      "Calificacion",
+      "Marca"
+    ]
+  },
+  {
+    "value": "nota",
+    "synonyms": [
+      "nota",
+      "notas",
+      "calificacion",
+      "marca",
+      "ponderacion",
+      "puntuacion",
+      "calificaciones",
+      "marcas"
+    ]
+  }
+]

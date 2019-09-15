@@ -1,0 +1,74 @@
+{
+  "id": "d43e29c0-fe07-4284-ab85-e8237cd9357c",
+  "name": "CambiarDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcfb5741-d5a2-410f-bd5a-e370b590d85b",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "31421853-05f6-4ecb-9784-add918a7eb3c",
+          "required": false,
+          "dataType": "@CambiarDestino",
+          "name": "CambiarDestino1",
+          "value": "$CambiarDestino1",
+          "isList": false
+        },
+        {
+          "id": "a2f27b46-4159-44bb-bf87-ae028a1ba20a",
+          "required": false,
+          "dataType": "@CambiarDestino",
+          "name": "CambiarDestino",
+          "value": "$CambiarDestino",
+          "isList": false
+        },
+        {
+          "id": "0c2d4367-2681-44e1-8860-d19e16c24cfc",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "4e178201-82a7-4106-b059-44af9bfd8756",
+          "dataType": "@Lugares",
+          "name": "Lugares1",
+          "value": "$Lugares1",
+          "isList": false
+        },
+        {
+          "id": "2bc82b29-e273-4915-8311-a1d61aaa3082",
+          "dataType": "@sys.time",
+          "name": "time1",
+          "value": "$time1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

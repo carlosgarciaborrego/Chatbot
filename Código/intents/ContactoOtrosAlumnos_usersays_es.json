@@ -1,0 +1,355 @@
+[
+  {
+    "id": "0b9619a7-d180-441f-a0e9-5a460b1b71be",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "comunicarme",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con otros ",
+        "userDefined": false
+      },
+      {
+        "text": "alumnos",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " que se ",
+        "userDefined": false
+      },
+      {
+        "text": "hayan ido ya",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "823da2c1-9e00-4793-a007-c4bba2793eb9",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "hablar",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "alumnos",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "otros años",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "789dd8ee-a979-4c52-b27f-4386a978922b",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "hablar",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "personas",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "hayan estado antes",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98c4ea5d-34ff-4744-8c6f-069f278b49b3",
+    "data": [
+      {
+        "text": "comunicarse",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "alumnos",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "ya han estado",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abc22f73-dd8f-4f1d-8160-de5bafcce177",
+    "data": [
+      {
+        "text": "es posible que me ofrezcan el ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " de otros ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anteriores",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e0f1efd-db62-44eb-a7f9-172f101e03b3",
+    "data": [
+      {
+        "text": "obtener contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "alumnos",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anteriores",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd827010-3f79-4459-b9c6-b26188c9d5f4",
+    "data": [
+      {
+        "text": "¿Cómo me puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "poner en contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con otros ",
+        "userDefined": false
+      },
+      {
+        "text": "alumnos",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be867ebf-8ff2-4630-91c4-be8b80cb8444",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "comunicarme",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " con ",
+        "userDefined": false
+      },
+      {
+        "text": "gente",
+        "alias": "Alumno",
+        "meta": "@Alumno",
+        "userDefined": true
+      },
+      {
+        "text": " que se ",
+        "userDefined": false
+      },
+      {
+        "text": "haya ido",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anteriormente",
+        "alias": "Anteriormente",
+        "meta": "@Anteriormente",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

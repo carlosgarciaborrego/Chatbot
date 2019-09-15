@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Guia",
+    "synonyms": [
+      "Guia",
+      "paso a paso",
+      "indice",
+      "por donde empezar",
+      "por donde comenzar",
+      "inicio",
+      "comienzo",
+      "comenzar",
+      "empezar",
+      "guias"
+    ]
+  },
+  {
+    "value": "Bases de la Convocatoria",
+    "synonyms": [
+      "Bases de la Convocatoria",
+      "Convocatoria de la movilidad",
+      "BasesConvocatoria"
+    ]
+  },
+  {
+    "value": "General",
+    "synonyms": [
+      "General",
+      "Toda la información",
+      "toda la documentacion",
+      "toda la info",
+      "toda la informacion"
+    ]
+  },
+  {
+    "value": "Anexo",
+    "synonyms": [
+      "Anexo",
+      "anexo",
+      "anexoDestinoOfertados",
+      "AnexoConDestinosOfertados",
+      "destinosOfertados",
+      "convenios",
+      "convenio"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Dinero",
+    "synonyms": [
+      "Dinero",
+      "Money",
+      "Euros",
+      "Cantidad",
+      "Capital",
+      "Financiacion",
+      "Financiar",
+      "Beca"
+    ]
+  },
+  {
+    "value": "Pagado",
+    "synonyms": [
+      "Pagado",
+      "Pagan",
+      "Alojamiento",
+      "Vuelo",
+      "Estancia",
+      "Viaje",
+      "Residencia"
+    ]
+  }
+]

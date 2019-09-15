@@ -1,0 +1,192 @@
+[
+  {
+    "id": "0e691369-a704-4b2b-b75e-ffe41ab10950",
+    "data": [
+      {
+        "text": "De cuanto ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " es la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b38e671-bfda-4065-96ef-82ad2c76dc80",
+    "data": [
+      {
+        "text": "Cuanto ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " dan con las ",
+        "userDefined": false
+      },
+      {
+        "text": "becas",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd317081-20ea-4b9d-8b80-d0bd2e613f85",
+    "data": [
+      {
+        "text": "Money",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " que me dan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6385d221-9c0f-48b4-a121-a77e756ba9fd",
+    "data": [
+      {
+        "text": "Cuantos ",
+        "userDefined": false
+      },
+      {
+        "text": "euros",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " son las ",
+        "userDefined": false
+      },
+      {
+        "text": "becas",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "064b24cd-7624-43bf-9b28-4bb1f136b286",
+    "data": [
+      {
+        "text": "Cuanto ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " me dan con la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56e116f8-c264-4e54-bd79-82537bfe3783",
+    "data": [
+      {
+        "text": "¿Cuánto ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " me van a dar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "092407bb-03cd-428a-b9b5-1f2be506c50c",
+    "data": [
+      {
+        "text": "Cuanto ",
+        "userDefined": false
+      },
+      {
+        "text": "capital",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " me daran por irme de erasmus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c948440e-9d83-449b-b562-e27474185f23",
+    "data": [
+      {
+        "text": "Dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "alias": "Dinero1",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

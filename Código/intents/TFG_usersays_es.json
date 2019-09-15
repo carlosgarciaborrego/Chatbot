@@ -1,0 +1,96 @@
+[
+  {
+    "id": "e03ea47e-23f5-4014-add8-688bded17781",
+    "data": [
+      {
+        "text": "¿Puedo llevarme el ",
+        "userDefined": false
+      },
+      {
+        "text": "TFG",
+        "alias": "TFG",
+        "meta": "@TFG",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "730e6b33-576b-4cff-af35-8cb7e1a5a264",
+    "data": [
+      {
+        "text": "¿Puedo hacer el ",
+        "userDefined": false
+      },
+      {
+        "text": "TFG",
+        "alias": "TFG",
+        "meta": "@TFG",
+        "userDefined": false
+      },
+      {
+        "text": " alli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7654488e-bc97-42f2-a2d8-a5275f2e654b",
+    "data": [
+      {
+        "text": "¿Dónde lo presentaría el ",
+        "userDefined": false
+      },
+      {
+        "text": "TFG",
+        "alias": "TFG",
+        "meta": "@TFG",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "083a80c5-b621-4bb6-a0b9-660b2ac42e60",
+    "data": [
+      {
+        "text": "¿Me llevo el ",
+        "userDefined": false
+      },
+      {
+        "text": "TFG",
+        "alias": "TFG",
+        "meta": "@TFG",
+        "userDefined": true
+      },
+      {
+        "text": " desde aquí o me ",
+        "userDefined": false
+      },
+      {
+        "text": "matriculo",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " allí?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

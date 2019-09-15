@@ -1,0 +1,9 @@
+{
+  "id": "316fb559-83f6-4c72-8517-6d126022d2da",
+  "name": "Nota",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

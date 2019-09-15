@@ -1,0 +1,318 @@
+[
+  {
+    "id": "4121292d-a625-4b04-be26-3c101151628e",
+    "data": [
+      {
+        "text": "Si cuando llego al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no me dejan ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " que está en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo",
+        "alias": "Convenio",
+        "meta": "@Convenio",
+        "userDefined": true
+      },
+      {
+        "text": " ¿qué debo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2cded1c-9518-46a2-9afe-22fc9e2ebbc1",
+    "data": [
+      {
+        "text": "en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " no he podido ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": ", que debería hacer ahora?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c03e069-1f9d-4bfb-a925-aa0165231382",
+    "data": [
+      {
+        "text": "que debo hacer si cuando llego alli no puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " que llevaba?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37609c82-ae4d-4714-a7d6-c43d282f0e2d",
+    "data": [
+      {
+        "text": "en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " que está en el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo",
+        "alias": "Convenio",
+        "meta": "@Convenio",
+        "userDefined": true
+      },
+      {
+        "text": ", que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7837cfe-b308-48f7-a1eb-3c995135db90",
+    "data": [
+      {
+        "text": "no me han dejado ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " que yo llevaba en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo",
+        "alias": "Convenio",
+        "meta": "@Convenio",
+        "userDefined": true
+      },
+      {
+        "text": ", que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80961e64-fa8d-4e23-bb6c-052ea02c8544",
+    "data": [
+      {
+        "text": "que puedo hacer si no me han dejado ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignatura",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que yo llevo en mi ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo",
+        "alias": "Convenio",
+        "meta": "@Convenio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

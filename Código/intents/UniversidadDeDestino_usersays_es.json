@@ -1,0 +1,157 @@
+[
+  {
+    "id": "45a68a53-e688-4db0-a1e2-d7f9ccd0235f",
+    "data": [
+      {
+        "text": "La ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no se ha puesto en ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": false
+      },
+      {
+        "text": " conmigo ¿qué debo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0f664aa-3891-4387-95cc-d0af8c0d5ca6",
+    "data": [
+      {
+        "text": "no me han ",
+        "userDefined": false
+      },
+      {
+        "text": "llamado",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": " ,¿qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ea1f546-5af6-4c8a-aba9-2d73dabe01ea",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "llaman",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": ", ¿que hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "966a65e4-467e-4692-9f1d-bdc0e0bd4801",
+    "data": [
+      {
+        "text": "la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " no me ha ",
+        "userDefined": false
+      },
+      {
+        "text": "llamado",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": ", ¿qué hago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66e35c96-cabc-4c48-a70c-d9bf6b17f26e",
+    "data": [
+      {
+        "text": "la ",
+        "userDefined": false
+      },
+      {
+        "text": "universidad",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " no me ha ",
+        "userDefined": false
+      },
+      {
+        "text": "llamado",
+        "alias": "Comunicarse",
+        "meta": "@Comunicarse",
+        "userDefined": true
+      },
+      {
+        "text": ",¿que puedo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

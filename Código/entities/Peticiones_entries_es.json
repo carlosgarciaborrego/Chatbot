@@ -1,0 +1,38 @@
+[
+  {
+    "value": "SolicitarErasmus",
+    "synonyms": [
+      "Solicitar",
+      "puedo pedir",
+      "solicito",
+      "CuandoSolicitarErasmus"
+    ]
+  },
+  {
+    "value": "mas solicitado",
+    "synonyms": [
+      "mas solicitado",
+      "mas solicitados",
+      "mas escogidos",
+      "mas pedidos",
+      "mas seleccionados",
+      "va mas gente",
+      "va mas la gente",
+      "mas marcados"
+    ]
+  },
+  {
+    "value": "solicitud",
+    "synonyms": [
+      "solicitud",
+      "peticion",
+      "escoger",
+      "solicitar",
+      "pedir",
+      "eleccion",
+      "seleccion",
+      "escogidos",
+      "peticiones"
+    ]
+  }
+]

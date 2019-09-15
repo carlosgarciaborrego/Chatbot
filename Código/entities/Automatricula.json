@@ -1,0 +1,9 @@
+{
+  "id": "dec53c4d-cd26-458c-9f3b-34567fd2a65e",
+  "name": "Automatricula",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

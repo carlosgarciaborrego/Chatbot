@@ -1,0 +1,193 @@
+[
+  {
+    "id": "d5590efb-e278-4323-943d-00a613c42bd3",
+    "data": [
+      {
+        "text": "¿Donde puedo encontrar ",
+        "userDefined": false
+      },
+      {
+        "text": "alojamiento",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eae9686a-82e3-4997-b11d-17697781ba07",
+    "data": [
+      {
+        "text": "¿Donde puedo alquilar ",
+        "userDefined": false
+      },
+      {
+        "text": "piso",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7afcdf3e-1bc6-48a2-aff5-ffa77745eebd",
+    "data": [
+      {
+        "text": "Donde puedo encontrar ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a219b0e8-22f8-4780-9d27-38463c9def9c",
+    "data": [
+      {
+        "text": "Donde puedo quedarme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9049a9c3-ffc9-4df1-a222-6e868fdd0f4e",
+    "data": [
+      {
+        "text": "¿Donde puedo aljarme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4266c95f-ca48-4c17-b2fa-413ac4f4b4a5",
+    "data": [
+      {
+        "text": "Donde puedo alquilar ",
+        "userDefined": false
+      },
+      {
+        "text": "piso",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9f1f21b-af01-4807-97e7-af22f43c3bdb",
+    "data": [
+      {
+        "text": "¿Donde puedo quedarme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf52404b-1fe1-497b-85f5-8b87c3c0fac1",
+    "data": [
+      {
+        "text": "¿Donde puedo encontrar ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef51fe03-21f3-4e13-b3fa-ef66f53ccabb",
+    "data": [
+      {
+        "text": "¿Donde puedo encontrar ",
+        "userDefined": false
+      },
+      {
+        "text": "piso",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca827181-ea98-48a4-ada3-607f4a367317",
+    "data": [
+      {
+        "text": "Donde puedo encontrar ",
+        "userDefined": false
+      },
+      {
+        "text": "piso",
+        "alias": "Alojamiento",
+        "meta": "@Alojamiento",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4bfd150-b0dd-42c3-9c6e-7c0d489e6494",
+    "data": [
+      {
+        "text": "Donde puedo alojarme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

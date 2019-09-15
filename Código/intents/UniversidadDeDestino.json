@@ -1,0 +1,52 @@
+{
+  "id": "fdec7f4c-abb7-4280-a2a4-678b50193598",
+  "name": "UniversidadDeDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "941fd7f8-76bb-47ff-9091-4d60d1e38aa8",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "b5207141-f73a-499d-a554-8e24a5d0e924",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "bfe598fd-b681-46f2-87d7-bd56717c8c16",
+          "required": false,
+          "dataType": "@Comunicarse",
+          "name": "Comunicarse",
+          "value": "$Comunicarse",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

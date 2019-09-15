@@ -1,0 +1,36 @@
+{
+  "id": "0a87244e-e436-4e3c-8dd6-7dae6adb33eb",
+  "name": "BasesConvocatoria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6a21d6ab-66e0-4784-ab14-466371c80c72",
+          "required": false,
+          "dataType": "@Informacion",
+          "name": "Informacion",
+          "value": "$Informacion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

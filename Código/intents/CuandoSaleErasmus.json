@@ -1,0 +1,36 @@
+{
+  "id": "664288f5-6333-4c24-914c-66693c6023f2",
+  "name": "CuandoSaleErasmus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "28af9779-7a1f-428d-b125-1b8f64a6dcff",
+          "required": false,
+          "dataType": "@Fechas",
+          "name": "Fechas",
+          "value": "$Fechas",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

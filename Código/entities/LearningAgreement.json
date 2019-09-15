@@ -1,0 +1,9 @@
+{
+  "id": "6498d86f-171c-4fc0-8451-4569761cec5a",
+  "name": "LearningAgreement",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

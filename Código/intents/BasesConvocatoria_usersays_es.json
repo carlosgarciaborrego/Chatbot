@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4a260cec-6d45-4eaa-a4cc-75d33e9a77d7",
+    "data": [
+      {
+        "text": "Convocatoria de movilidad",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "078cf356-2686-4b4c-a815-3321f282cf46",
+    "data": [
+      {
+        "text": "documento de la ",
+        "userDefined": false
+      },
+      {
+        "text": "convocatoria de movilidad",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afa7b9fe-1455-41dd-a1c0-27ef9c8c9368",
+    "data": [
+      {
+        "text": "Bases de la convocatoria",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd1650a1-26e9-4db7-83db-635e6548c4d9",
+    "data": [
+      {
+        "text": "convocatorias de movilidad",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f391d20-3a7e-482f-89e6-250c89971f6c",
+    "data": [
+      {
+        "text": "Enseñame la ",
+        "userDefined": false
+      },
+      {
+        "text": "convocatoria de la movilidad",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef8cd8e1-0dd8-4795-901e-f3498873c67c",
+    "data": [
+      {
+        "text": "Muestrame las ",
+        "userDefined": false
+      },
+      {
+        "text": "bases de la convocatoria",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

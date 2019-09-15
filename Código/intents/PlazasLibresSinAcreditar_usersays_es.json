@@ -1,0 +1,163 @@
+[
+  {
+    "id": "2d5fd5f1-77be-4e59-bba2-80c235f4e117",
+    "data": [
+      {
+        "text": "Quiero ir sin ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "idioma",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd713ae3-2a07-4a9a-8b3e-e3680f40589e",
+    "data": [
+      {
+        "text": "No tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "idioma",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditado",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": ", puedo ir de erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "869daf2a-be32-49f4-bc53-83252a62610e",
+    "data": [
+      {
+        "text": "Si ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " plazas libres, ¿me las pueden dar sin ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "idioma",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c83254a-e1fd-4e21-a001-4e9473fff8e4",
+    "data": [
+      {
+        "text": "No me da tiempo de ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "idioma",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": ", puedo ir de erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a664bc9-32db-4492-8af5-dd7a5f3f5cf0",
+    "data": [
+      {
+        "text": "Puedo ir sin ",
+        "userDefined": false
+      },
+      {
+        "text": "acreditar",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "idioma",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

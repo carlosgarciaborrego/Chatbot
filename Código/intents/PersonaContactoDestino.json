@@ -1,0 +1,52 @@
+{
+  "id": "27d77d2a-706f-45ba-92e7-0a8f628e4373",
+  "name": "PersonaContactoDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4d235ee-2332-4200-8e12-7a4d35d679fd",
+          "required": false,
+          "dataType": "@Alumno",
+          "name": "Alumno",
+          "value": "$Alumno",
+          "isList": false
+        },
+        {
+          "id": "bb2d9c3f-80c6-42f5-9b53-4ae3b34d8b33",
+          "required": false,
+          "dataType": "@Comunicarse",
+          "name": "Comunicarse",
+          "value": "$Comunicarse",
+          "isList": false
+        },
+        {
+          "id": "e209e9df-226e-4376-9910-8174436f3c54",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

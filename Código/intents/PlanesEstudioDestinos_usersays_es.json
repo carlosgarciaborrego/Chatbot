@@ -1,0 +1,264 @@
+[
+  {
+    "id": "0f74e3fc-e6d5-4b6f-9558-5c0d8aad3870",
+    "data": [
+      {
+        "text": "cuales son los ",
+        "userDefined": false
+      },
+      {
+        "text": "planes de estudio",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de los distintos ",
+        "userDefined": false
+      },
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d48bfcb-a481-45b2-a2cb-84028b006fca",
+    "data": [
+      {
+        "text": "donde puedo ver los ",
+        "userDefined": false
+      },
+      {
+        "text": "planes de estudio",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de cada ",
+        "userDefined": false
+      },
+      {
+        "text": "univerdad",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a77ad4c0-6ef0-41e3-baa9-918b5bc2d0f1",
+    "data": [
+      {
+        "text": "donde consultar los ",
+        "userDefined": false
+      },
+      {
+        "text": "planes de estudio",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de las ",
+        "userDefined": false
+      },
+      {
+        "text": "otras universidades",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0466f332-a896-43e9-8fd3-b544fee1c628",
+    "data": [
+      {
+        "text": "obtener ",
+        "userDefined": false
+      },
+      {
+        "text": "datos",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "informacion",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " de los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd6734df-51fb-427e-83cc-7c40daac7a46",
+    "data": [
+      {
+        "text": "cuales son los ",
+        "userDefined": false
+      },
+      {
+        "text": "planes de estudio",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27fc016b-5614-4166-8576-0d30042b211c",
+    "data": [
+      {
+        "text": "donde estan los ",
+        "userDefined": false
+      },
+      {
+        "text": "planes de estudio",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de la univerdidad ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9274a86-8d16-4448-bf29-819feed25065",
+    "data": [
+      {
+        "text": "¿Cómo puedo consultar los ",
+        "userDefined": false
+      },
+      {
+        "text": "planes de estudio",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de las ",
+        "userDefined": false
+      },
+      {
+        "text": "Universidades",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9df5d3f7-c97d-4251-986f-7156af3c2e2e",
+    "data": [
+      {
+        "text": "donde puedo ver la ",
+        "userDefined": false
+      },
+      {
+        "text": "informacion",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " de las universidades ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "328f4a18-6e21-4e8f-b6d8-21f714a612c1",
+    "data": [
+      {
+        "text": "consultar",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "informacion",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": true
+      },
+      {
+        "text": " de los ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "381fd624-d73a-4158-8c8f-cfc816873a11",
+    "data": [
+      {
+        "text": "¿Cómo sé las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": true
+      },
+      {
+        "text": " que se me van a reconocer de las que haga en el extranjero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be7b23c3-6c3b-4221-836d-de8b18389332",
+    "data": [
+      {
+        "text": "¿Me ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidan",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6aa96380-7f47-4bfa-bc43-a6bf3fd5a0f9",
+    "data": [
+      {
+        "text": "¿Puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidar",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "046c720b-642c-46ca-b55e-23e53d41a2da",
+    "data": [
+      {
+        "text": "¿Como se las ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": false
+      },
+      {
+        "text": " que me ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidan",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1aac3ff3-39f6-4281-a9ba-f36608853d80",
+    "data": [
+      {
+        "text": "¿Que ",
+        "userDefined": false
+      },
+      {
+        "text": "asignaturas",
+        "alias": "Asignaturas",
+        "meta": "@Asignaturas",
+        "userDefined": true
+      },
+      {
+        "text": " me ",
+        "userDefined": false
+      },
+      {
+        "text": "convalidan",
+        "alias": "Convalidar",
+        "meta": "@Convalidar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

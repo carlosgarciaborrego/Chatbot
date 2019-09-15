@@ -1,0 +1,44 @@
+{
+  "id": "d68776e2-d83d-4bdb-af12-2a6ceadd55f3",
+  "name": "CuandoLlegarDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7597af2b-0dc8-4462-8ca8-02cd0df90c95",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "1263cd25-df8c-44cb-9537-c45387e8fa2c",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

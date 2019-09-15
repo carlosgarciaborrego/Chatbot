@@ -1,0 +1,106 @@
+[
+  {
+    "id": "5ddb5097-0ed8-4aec-b5e1-dfcc4dee3f4e",
+    "data": [
+      {
+        "text": "me presento al examen ",
+        "userDefined": false
+      },
+      {
+        "text": "en septiembre",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿me da tiempo antes de ",
+        "userDefined": false
+      },
+      {
+        "text": "cerrar la convocatoria?",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd01d4c3-5e43-457a-935c-fc570d326679",
+    "data": [
+      {
+        "text": "no se si tendre el ",
+        "userDefined": false
+      },
+      {
+        "text": "titulo antes de cierre",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "090e1de4-47dd-47a0-ba11-71f7aee1b297",
+    "data": [
+      {
+        "text": "TituloAntesDeCierre",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d418b56-087e-4ebe-949a-68a725784cff",
+    "data": [
+      {
+        "text": "Me presento a ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " título de ",
+        "userDefined": false
+      },
+      {
+        "text": "Cambridge",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en diciembre",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". No sé si tendré el título antes de que ",
+        "userDefined": false
+      },
+      {
+        "text": "cierre la convocatoria",
+        "alias": "Fechas",
+        "meta": "@Fechas",
+        "userDefined": true
+      },
+      {
+        "text": ". ¿Me valdrá?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

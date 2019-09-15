@@ -1,0 +1,44 @@
+{
+  "id": "fa6c4af6-8cbc-405e-a655-a47bb56b163a",
+  "name": "CuandoHacerLearningAgreement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "09698c8e-11e0-47f0-a165-e71975dabf6d",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        },
+        {
+          "id": "1f16e59f-8c37-4222-90da-d44951ee8632",
+          "required": false,
+          "dataType": "@PlanesDeEstudio",
+          "name": "PlanesDeEstudio",
+          "value": "$PlanesDeEstudio",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

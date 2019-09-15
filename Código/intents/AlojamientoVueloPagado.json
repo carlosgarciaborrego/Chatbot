@@ -1,0 +1,60 @@
+{
+  "id": "d509b47c-24ee-404a-92a3-7e97053a04cd",
+  "name": "AlojamientoVueloPagado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "28460ec4-32ab-4b5a-8ac7-b6ab158322e5",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": false
+        },
+        {
+          "id": "69565b18-d786-45a3-b3fb-ba0160498ee0",
+          "required": false,
+          "dataType": "@Alojamiento",
+          "name": "Alojamiento",
+          "value": "$Alojamiento",
+          "isList": false
+        },
+        {
+          "id": "edc61111-2d68-4cb2-bd82-8a16cad37d80",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero1",
+          "value": "$Dinero1",
+          "isList": false
+        },
+        {
+          "id": "9f7910e6-70fe-4079-96b5-c440721e8dcc",
+          "required": false,
+          "dataType": "@Dinero",
+          "name": "Dinero2",
+          "value": "$Dinero2",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

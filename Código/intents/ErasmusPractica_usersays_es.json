@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8ee34d0b-6f8e-40c9-a942-62241d9dcaed",
+    "data": [
+      {
+        "text": "¿Puedo hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": " practica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85489fb4-87e3-46e8-915f-82e7d13d226b",
+    "data": [
+      {
+        "text": "¿Es compatible con ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": " practica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0aa7f631-e384-4e29-80db-18793047f557",
+    "data": [
+      {
+        "text": "¿Puedo hacer Erasmus Practica con Erasmus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfed98f2-0ac9-4992-9536-74707b6d5a3f",
+    "data": [
+      {
+        "text": "¿La ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": " es compatible con la ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus1",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": " práctica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

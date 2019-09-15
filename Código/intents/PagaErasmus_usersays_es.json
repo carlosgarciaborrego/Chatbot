@@ -1,0 +1,174 @@
+[
+  {
+    "id": "ec1820b1-4e1c-4890-b8e5-f4c647c67f71",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " me ingresan el ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64c3a3e3-8fba-43af-976d-39f45b90ab44",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Cuándo",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " me ",
+        "userDefined": false
+      },
+      {
+        "text": "pagan",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1f7d417-2992-4970-9d57-e66e08d56932",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " se ingresa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ecdcf65e-ca82-4098-ab71-19ad2587e15a",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " se da la ",
+        "userDefined": false
+      },
+      {
+        "text": "beca de dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62792cfa-cfef-4e60-b874-ad49960476e2",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " me dan el ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

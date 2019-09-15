@@ -1,0 +1,9 @@
+{
+  "id": "14b0fff5-9030-4b3e-a02d-fb69824a6215",
+  "name": "Convalidar",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

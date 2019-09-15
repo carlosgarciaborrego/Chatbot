@@ -1,0 +1,9 @@
+{
+  "id": "e400107f-51a2-4361-af6b-ae5860008069",
+  "name": "Matricula",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

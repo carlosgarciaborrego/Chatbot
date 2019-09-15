@@ -1,0 +1,156 @@
+[
+  {
+    "id": "2cbf7aec-9b83-4b8c-b97d-3da61b08df37",
+    "data": [
+      {
+        "text": "Influye el ",
+        "userDefined": false
+      },
+      {
+        "text": "lugar",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " de preferencia en el que ",
+        "userDefined": false
+      },
+      {
+        "text": "haya",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " puesto el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares1",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " a la\n hora de la selección",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42dfa7bc-6317-4e4c-a5d0-124748a0c356",
+    "data": [
+      {
+        "text": "Es importante el ",
+        "userDefined": false
+      },
+      {
+        "text": "numero",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " de preferencia del ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " al seleccionar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a03699bc-6dea-4b5d-93f7-57e8804e0d6c",
+    "data": [
+      {
+        "text": "Influye el ",
+        "userDefined": false
+      },
+      {
+        "text": "lugar",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " de preferencia del ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares1",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " para ser elegido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f37592a8-a0a0-4b82-b25f-9c12fc3c2b7e",
+    "data": [
+      {
+        "text": "Importa el ",
+        "userDefined": false
+      },
+      {
+        "text": "numero",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " de preferencia del ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " a la hora de la seleccion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "585d27c1-3bc7-44ab-874f-337eef95af36",
+    "data": [
+      {
+        "text": "El orden de preferencia de ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " importa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

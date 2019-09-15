@@ -1,0 +1,44 @@
+{
+  "id": "349362e0-f75d-40ae-bc00-b2be413eee4e",
+  "name": "NumeroOpciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "86e6e332-1b6b-4fe2-9454-a0bcc2aac476",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "02365ac9-33d8-4e84-aaf2-474beac77977",
+          "required": false,
+          "dataType": "@SeleccionOpciones",
+          "name": "SeleccionOpciones",
+          "value": "$SeleccionOpciones",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

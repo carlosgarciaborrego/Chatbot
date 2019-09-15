@@ -1,0 +1,223 @@
+[
+  {
+    "id": "3bbc0213-91b0-45c6-9346-17cea6edd9d1",
+    "data": [
+      {
+        "text": "destinos ofertados",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3bea275-d4ce-4010-bbb9-48d94a268956",
+    "data": [
+      {
+        "text": "Paises",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " a  donde ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fa33c81-a7aa-4d4d-95aa-e05bc9e6df24",
+    "data": [
+      {
+        "text": "Convenio con los ",
+        "userDefined": false
+      },
+      {
+        "text": "países",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f3fd2dd-1e1c-492e-9a60-12a0bee827f9",
+    "data": [
+      {
+        "text": "¿Donde puedo realizar mi ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4df767ff-1fd0-4b1f-8b3f-7a42b7c9eed5",
+    "data": [
+      {
+        "text": "¿Dónde puedo ir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eadf7544-4e0a-417c-aebf-ac4dca0365e9",
+    "data": [
+      {
+        "text": "Paises",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " que se ofertan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfc60ccb-fa8f-47be-8c30-ec77b1baa3fb",
+    "data": [
+      {
+        "text": "a que lugares puedo ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a537e86-603a-4f1a-8a33-eab37f882263",
+    "data": [
+      {
+        "text": "Donde puedo irme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1bf3b7f3-b3dd-4f38-87ef-60fb86d8bef8",
+    "data": [
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1516383e-3974-478b-b03f-c3ee408aab63",
+    "data": [
+      {
+        "text": "¿A qué lugares puedo ir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "369af8be-28eb-454d-b6b3-83ba33228993",
+    "data": [
+      {
+        "text": "¿Qué ",
+        "userDefined": false
+      },
+      {
+        "text": "destinos",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": " se ofertan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "112aa314-7389-491c-ac6c-90d30ad0b706",
+    "data": [
+      {
+        "text": "lugares",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " donde puedo ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd124739-998c-429b-bf8a-df5a050db728",
+    "data": [
+      {
+        "text": "donde puedo ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3d03f43-af53-49af-be76-e5ffb71024a7",
+    "data": [
+      {
+        "text": "Posibles ",
+        "userDefined": false
+      },
+      {
+        "text": "paises",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7e89ee3-10c6-449d-9566-f17fc504d65d",
+    "data": [
+      {
+        "text": "sitios",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

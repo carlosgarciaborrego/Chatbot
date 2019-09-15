@@ -1,0 +1,271 @@
+[
+  {
+    "id": "3a77398b-2074-42f8-86cb-2acc1f024df4",
+    "data": [
+      {
+        "text": "Disminuir",
+        "alias": "Disminucion",
+        "meta": "@Disminucion",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "alias": "VueloResidencia",
+        "meta": "@VueloResidencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "466eefd6-bab4-4c97-a58c-2485ffadb814",
+    "data": [
+      {
+        "text": "¿Se puede ",
+        "userDefined": false
+      },
+      {
+        "text": "disminuir",
+        "alias": "Disminucion",
+        "meta": "@Disminucion",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "alias": "VueloResidencia",
+        "meta": "@VueloResidencia",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1542bdf2-8fd4-4279-830b-2bf76bd7a445",
+    "data": [
+      {
+        "text": "¿Si el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que quiero es de ",
+        "userDefined": false
+      },
+      {
+        "text": "10 meses",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " y yo quiero irme ",
+        "userDefined": false
+      },
+      {
+        "text": "un semestre",
+        "alias": "Tiempo1",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c726c59d-33be-49f3-9b41-19d5abe1cefe",
+    "data": [
+      {
+        "text": "Y al revés. ¿Si el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que quiero es de ",
+        "userDefined": false
+      },
+      {
+        "text": "10 meses",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " y yo quiero irme ",
+        "userDefined": false
+      },
+      {
+        "text": "un semestre",
+        "alias": "Tiempo1",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c9d68b9-a131-4b42-9f09-8d992d892f34",
+    "data": [
+      {
+        "text": "puedo irme ",
+        "userDefined": false
+      },
+      {
+        "text": "menos tiempo",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "114bd2e1-eb70-4471-a950-44a3274091af",
+    "data": [
+      {
+        "text": "estar ",
+        "userDefined": false
+      },
+      {
+        "text": "menos tiempo",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " del que me han dado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e011bc5-c229-43b3-999d-abe86b34e658",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "acortar",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e55e2955-1074-4f18-96fe-ddaedeb4a0cb",
+    "data": [
+      {
+        "text": "irme ",
+        "userDefined": false
+      },
+      {
+        "text": "menos tiempo",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " del que me han dado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ff34854-1e70-4fc9-ac87-4233fdb5393c",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "disminuir",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " el tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a69fb6b9-acb3-42ac-8416-2e1a4663af73",
+    "data": [
+      {
+        "text": "si tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "un año",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " y quiero irme ",
+        "userDefined": false
+      },
+      {
+        "text": "un cuatrimestre",
+        "alias": "Tiempo1",
+        "meta": "@Tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "e75dedc1-3538-4a1c-b1f9-8127853f1424",
+  "name": "Reunion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29ad4789-c572-417b-ab25-ec6ee1f5074f",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "ee4d12a0-7e7a-4dbd-99f8-27db8430816b",
+          "required": false,
+          "dataType": "@Comunicarse",
+          "name": "Comunicarse",
+          "value": "$Comunicarse",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

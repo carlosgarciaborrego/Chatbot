@@ -1,0 +1,330 @@
+[
+  {
+    "id": "49d708da-4023-444a-8018-e597d8bab7db",
+    "data": [
+      {
+        "text": "se ",
+        "userDefined": false
+      },
+      {
+        "text": "necesita",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " entregar algun ",
+        "userDefined": false
+      },
+      {
+        "text": "documento",
+        "alias": "Documento",
+        "meta": "@Documento",
+        "userDefined": true
+      },
+      {
+        "text": " llegar en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9186eb40-8a85-4070-9f02-b5b38e83526e",
+    "data": [
+      {
+        "text": "¿",
+        "userDefined": false
+      },
+      {
+        "text": "Necesito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " recoger algún ",
+        "userDefined": false
+      },
+      {
+        "text": "documento",
+        "alias": "Documento",
+        "meta": "@Documento",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " llego a ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5e34531-d7d5-4781-a1b4-1b15d9207c14",
+    "data": [
+      {
+        "text": "tengo que entregar algo ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " llegue al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0855a992-32f2-431c-a430-c179d33b6475",
+    "data": [
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vez en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que entregar algo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8f7b601-932d-45a7-88a9-c8c3134f7188",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " recoger en la llegada al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d9e078b-8428-4488-95a8-9a1a7645df28",
+    "data": [
+      {
+        "text": "tengo que rellenar algun ",
+        "userDefined": false
+      },
+      {
+        "text": "documento",
+        "alias": "Documento",
+        "meta": "@Documento",
+        "userDefined": false
+      },
+      {
+        "text": " a la llegada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2698cf13-591b-4f30-86da-ae468f5691bc",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "documento",
+        "alias": "Documento",
+        "meta": "@Documento",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " recoger en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3573892b-f172-4bc5-8659-553b6f29b5f1",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que entregar ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " se llegue al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89753335-e5aa-4d26-a47b-c840bc885ed8",
+    "data": [
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que recoger algo al llegar? algun ",
+        "userDefined": false
+      },
+      {
+        "text": "documento",
+        "alias": "Documento",
+        "meta": "@Documento",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "966bd7c4-3c9d-43ba-8fc4-ee0ae7349525",
+    "data": [
+      {
+        "text": "cuando",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": " llegue al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", tengo que entregar algo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

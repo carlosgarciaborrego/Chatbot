@@ -1,0 +1,244 @@
+[
+  {
+    "id": "7445999a-4a44-49ef-990e-08074b4bf0f0",
+    "data": [
+      {
+        "text": "como me ",
+        "userDefined": false
+      },
+      {
+        "text": "matriculo",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ahora",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cada130-2e38-4048-b0c8-d600839b7c03",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " para el ",
+        "userDefined": false
+      },
+      {
+        "text": "año",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8c24d93-4725-4ce9-b052-8ae5dbe51478",
+    "data": [
+      {
+        "text": "como debo ",
+        "userDefined": false
+      },
+      {
+        "text": "matricularme",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5039a09a-d0da-4ee3-9d5b-cbbd50eeb16e",
+    "data": [
+      {
+        "text": "para ",
+        "userDefined": false
+      },
+      {
+        "text": "este curso",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": ", como deberia hacer la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd769e4e-af43-48ed-82c4-73bc8c04e559",
+    "data": [
+      {
+        "text": "como se tiene que hacer la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "este año",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa80aae3-4b61-400b-9832-9b05b1102ec1",
+    "data": [
+      {
+        "text": "como se hace la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c36cb82b-6a7d-4b7f-869c-46ae6d6eb797",
+    "data": [
+      {
+        "text": "hacer la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " para el ",
+        "userDefined": false
+      },
+      {
+        "text": "nuevo curso",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c03d999b-8b30-4c39-b0c7-23affcbeea60",
+    "data": [
+      {
+        "text": "como tengo que hacer la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e682f70d-b5f3-4415-bff8-354062a8e8f0",
+    "data": [
+      {
+        "text": "hacer la ",
+        "userDefined": false
+      },
+      {
+        "text": "matricula",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b71cf0e-c49f-430d-9afb-adbee82e8058",
+    "data": [
+      {
+        "text": "¿Dónde y cómo me debo ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

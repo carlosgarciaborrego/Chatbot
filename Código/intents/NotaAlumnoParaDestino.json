@@ -1,0 +1,44 @@
+{
+  "id": "ea9d260c-a31d-4590-9e1c-efa324b45668",
+  "name": "NotaAlumnoParaDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fa78298f-3828-4f57-bc6d-890f0f10b316",
+          "required": false,
+          "dataType": "@Nota",
+          "name": "Nota",
+          "value": "$Nota",
+          "isList": false
+        },
+        {
+          "id": "87e1df0d-98e5-47b1-838d-57683b1548b0",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

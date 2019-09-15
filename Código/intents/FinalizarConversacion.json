@@ -1,0 +1,43 @@
+{
+  "id": "d4ca187b-c325-4959-8433-fd73c30eb3f5",
+  "name": "FinalizarConversacion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23d1bbe9-2930-4a91-8f4d-61c7370c5f73",
+          "required": false,
+          "dataType": "@Comunicarse",
+          "name": "Comunicarse",
+          "value": "$Comunicarse",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Espero haberle servido de ayuda 😁",
+            "Ojalá te haya servido mi ayuda 😁",
+            "Espero haberte ayudado 😁",
+            "Espero que la información haya sido de ayuda 😁"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

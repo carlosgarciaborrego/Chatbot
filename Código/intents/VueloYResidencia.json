@@ -1,0 +1,44 @@
+{
+  "id": "8ead5429-62c6-42b9-b0eb-841bfec82047",
+  "name": "VueloYResidencia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c475687-3021-4e07-8e57-c3c2f9acda76",
+          "required": false,
+          "dataType": "@VueloResidencia",
+          "name": "VueloResidencia",
+          "value": "$VueloResidencia",
+          "isList": true
+        },
+        {
+          "id": "885e8f0c-137a-4c4c-b1c5-a617b36075f5",
+          "required": false,
+          "dataType": "@Alojamiento",
+          "name": "Alojamiento",
+          "value": "$Alojamiento",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

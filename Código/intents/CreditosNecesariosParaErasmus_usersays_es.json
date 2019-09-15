@@ -1,0 +1,127 @@
+[
+  {
+    "id": "04d5e657-820c-47c1-955d-9d90fdfafba6",
+    "data": [
+      {
+        "text": "¿De cuántos créditos me tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " el año que me vaya de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9bb6060-9c81-457b-9a96-07e2cb283965",
+    "data": [
+      {
+        "text": "¿De cuántos créditos me puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "matricular",
+        "alias": "Matricula",
+        "meta": "@Matricula",
+        "userDefined": false
+      },
+      {
+        "text": " el año que me vaya de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca7f1124-f5a7-4a21-9941-c72e3662abfb",
+    "data": [
+      {
+        "text": "¿Cuantos creditos ",
+        "userDefined": false
+      },
+      {
+        "text": "necesito",
+        "alias": "Curso",
+        "meta": "@Curso",
+        "userDefined": false
+      },
+      {
+        "text": " para irme de ",
+        "userDefined": false
+      },
+      {
+        "text": "erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c826248-3321-41f3-990b-719cc9d99a41",
+    "data": [
+      {
+        "text": "¿Cuantos creditos son necesarios?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c98176a-4a0a-4cfd-945b-980a034d3f44",
+    "data": [
+      {
+        "text": "¿Cuantos creditos tengo que ",
+        "userDefined": false
+      },
+      {
+        "text": "coger",
+        "alias": "SeleccionOpciones",
+        "meta": "@SeleccionOpciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "a704d753-8ee5-49a4-8997-dc02d9380915",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "toda la informacion",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7a7969b-cdc5-4870-ae9e-3a0d47716646",
+    "data": [
+      {
+        "text": "Toda la info",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      },
+      {
+        "text": " de la convocatoria la encontráis en:",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc8ec22d-f42d-4588-a29b-06be6907f5bd",
+    "data": [
+      {
+        "text": "Datos ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59595e46-92e9-4756-917a-9be653f2ab01",
+    "data": [
+      {
+        "text": "general",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a48c095e-6914-41b5-a238-bbb7879a3433",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "toda la información",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df6f5814-1f34-484d-84a2-e06bbbf5fdde",
+    "data": [
+      {
+        "text": "Toda la información",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e4ed0e3-250d-44e5-a330-d4137b02ac57",
+    "data": [
+      {
+        "text": "que necesito",
+        "alias": "Informacion",
+        "meta": "@Informacion",
+        "userDefined": true
+      },
+      {
+        "text": " para irme de erasmus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

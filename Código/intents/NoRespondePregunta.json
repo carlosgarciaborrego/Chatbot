@@ -1,0 +1,36 @@
+{
+  "id": "75371789-d6c5-4300-bf36-cbf705ffc2dd",
+  "name": "NoRespondePregunta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6b723114-47d7-4bba-8d9d-7f2254eae8b3",
+          "required": false,
+          "dataType": "@Pregunta",
+          "name": "Pregunta",
+          "value": "$Pregunta",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

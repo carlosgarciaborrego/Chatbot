@@ -1,0 +1,84 @@
+[
+  {
+    "value": "Latinoamerica",
+    "synonyms": [
+      "Latinoamerica",
+      "Europa",
+      "Argentina",
+      "Chile",
+      "Bolivia",
+      "Venezuela",
+      "Peru",
+      "Brasil",
+      "Uruguay",
+      "Colombia",
+      "Mexico",
+      "Mejico",
+      "Cuba",
+      "Ecuador",
+      "Puerto Rico",
+      "LatinoAmerica",
+      "latinoamérica",
+      "Latino América"
+    ]
+  },
+  {
+    "value": "Lugar",
+    "synonyms": [
+      "Lugar",
+      "lugar",
+      "sitio",
+      "Sitio",
+      "Destino",
+      "destino",
+      "País",
+      "pais",
+      "país",
+      "Pais",
+      "lugares",
+      "destinos",
+      "sitios",
+      "paises"
+    ]
+  },
+  {
+    "value": "oferta",
+    "synonyms": [
+      "oferta",
+      "ofertas",
+      "opcion",
+      "opciones",
+      "destinos",
+      "destino",
+      "lugar",
+      "lugares"
+    ]
+  },
+  {
+    "value": "DondePresentarTitulo",
+    "synonyms": [
+      "DondeLoPresento",
+      "DondePresentarTitulo",
+      "Donde presentar",
+      "donde presentarlo",
+      "donde lo presento",
+      "donde presento"
+    ]
+  },
+  {
+    "value": "Reunion",
+    "synonyms": [
+      "Reunion",
+      "reunión"
+    ]
+  },
+  {
+    "value": "InstitutoDeIdiomas",
+    "synonyms": [
+      "InstitutoDeIdiomas",
+      "instituto",
+      "instituto de idiomas",
+      "escuela de idiomas"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "f954b6e9-4cd0-4ec8-aef1-2ace894a3623",
+  "name": "ComoMatricularse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca32e7e2-c147-4150-bb56-7abd3fafd49f",
+          "required": false,
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "2c7071e0-8906-45ea-a3af-54a8289cb5a5",
+          "required": false,
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        },
+        {
+          "id": "9ebbd867-0167-417a-b1d8-8de583a7f33b",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

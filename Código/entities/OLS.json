@@ -1,0 +1,9 @@
+{
+  "id": "26cb961c-7068-4abf-9301-a32ab57af4db",
+  "name": "OLS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

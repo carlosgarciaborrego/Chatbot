@@ -1,0 +1,74 @@
+{
+  "id": "b12aff0c-ef5d-424f-918b-20075a45ef6f",
+  "name": "DisminuirDuracion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7682e966-391b-4874-87be-711d6ae75086",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        },
+        {
+          "id": "b4c5bbd0-7a8d-4f5f-a131-22b8f2f8756e",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo1",
+          "value": "$Tiempo1",
+          "isList": false
+        },
+        {
+          "id": "ca455fb0-086b-49aa-b87b-e93fff7b2bcb",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "isList": false
+        },
+        {
+          "id": "69b8c1ec-11b7-44ba-81b3-47a1cf35707f",
+          "required": false,
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "bb46144a-f675-49b8-aeab-20b3011b2153",
+          "dataType": "@Disminucion",
+          "name": "Disminucion",
+          "value": "$Disminucion",
+          "isList": false
+        },
+        {
+          "id": "8c833433-ce72-4472-b7cf-82e443b1181e",
+          "dataType": "@VueloResidencia",
+          "name": "VueloResidencia",
+          "value": "$VueloResidencia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

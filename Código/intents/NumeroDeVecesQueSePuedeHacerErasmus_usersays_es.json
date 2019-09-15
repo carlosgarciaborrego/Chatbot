@@ -1,0 +1,107 @@
+[
+  {
+    "id": "85c0e1d7-8883-475f-bd0a-7c719ec0bec4",
+    "data": [
+      {
+        "text": "¿Cuántas veces puedo irme de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd3c96ef-8d31-4256-91e6-e76ebea255ec",
+    "data": [
+      {
+        "text": "¿Puedo irme de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": " mas veces?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06c70fe5-7d41-4209-b91b-1641802de19e",
+    "data": [
+      {
+        "text": "¿Cuantas veces puedo ir de ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf47d43a-f749-4590-af9f-9693fc7fb61c",
+    "data": [
+      {
+        "text": "¿Se puede hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": " mas veces?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9a01ea4-2c60-40f7-b784-163d972d8d87",
+    "data": [
+      {
+        "text": "¿Cuantas veces puedo hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "Erasmus",
+        "alias": "Erasmus",
+        "meta": "@Erasmus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

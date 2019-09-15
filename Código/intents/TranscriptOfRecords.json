@@ -1,0 +1,36 @@
+{
+  "id": "51888bdb-09ab-4018-a3ed-9379ee5a977e",
+  "name": "TranscriptOfRecords",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e14f6d58-78b6-4716-b3e5-741dc16924a7",
+          "required": false,
+          "dataType": "@TranscriptOfRecords",
+          "name": "TranscriptOfRecords",
+          "value": "$TranscriptOfRecords",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

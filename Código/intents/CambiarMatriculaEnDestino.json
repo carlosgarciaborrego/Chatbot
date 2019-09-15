@@ -1,0 +1,63 @@
+{
+  "id": "ce8a5f5d-903d-4376-84f5-60bcfe081223",
+  "name": "CambiarMatriculaEnDestino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d69d2ff8-eead-4f49-9a84-18f28004f2d3",
+          "dataType": "@CambiarDestino",
+          "name": "CambiarDestino",
+          "value": "$CambiarDestino",
+          "isList": false
+        },
+        {
+          "id": "441ccdea-e729-42b3-bcdc-11b69203159d",
+          "dataType": "@Matricula",
+          "name": "Matricula",
+          "value": "$Matricula",
+          "isList": false
+        },
+        {
+          "id": "a8b1d139-ab09-4d8e-abb7-a5c14ea0ea0f",
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": false
+        },
+        {
+          "id": "b7613272-74ed-4395-9b58-5c9ae97fab54",
+          "dataType": "@Lugares",
+          "name": "Lugares",
+          "value": "$Lugares",
+          "isList": false
+        },
+        {
+          "id": "bce02033-cbf4-4d62-9073-4a57d1d4a34c",
+          "dataType": "@Erasmus",
+          "name": "Erasmus",
+          "value": "$Erasmus",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

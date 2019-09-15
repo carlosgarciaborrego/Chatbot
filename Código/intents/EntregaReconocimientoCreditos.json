@@ -1,0 +1,52 @@
+{
+  "id": "b4cbeaa2-b909-4577-823b-17bb62771ab1",
+  "name": "EntregaReconocimientoCreditos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bab26453-93ee-40d6-ac21-03f91eb090ef",
+          "required": false,
+          "dataType": "@Creditos",
+          "name": "Creditos",
+          "value": "$Creditos",
+          "isList": false
+        },
+        {
+          "id": "3e05b0be-8edb-40ae-8ad5-417c82330815",
+          "required": false,
+          "dataType": "@Creditos",
+          "name": "Creditos1",
+          "value": "$Creditos1",
+          "isList": false
+        },
+        {
+          "id": "8d4cf6de-ca65-4b31-b6d2-eed2a4e310c2",
+          "required": false,
+          "dataType": "@Anteriormente",
+          "name": "Anteriormente",
+          "value": "$Anteriormente",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

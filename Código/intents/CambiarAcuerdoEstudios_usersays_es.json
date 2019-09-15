@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ff87b8af-fdb7-4aa2-9822-5fe28b733034",
+    "data": [
+      {
+        "text": "que hago para ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85deddf7-7345-4066-95da-e7c5148c7597",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "cambiar",
+        "alias": "CambiarDestino",
+        "meta": "@CambiarDestino",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "acuerdo de estudios",
+        "alias": "PlanesDeEstudio",
+        "meta": "@PlanesDeEstudio",
+        "userDefined": false
+      },
+      {
+        "text": " ¿qué debo hacer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

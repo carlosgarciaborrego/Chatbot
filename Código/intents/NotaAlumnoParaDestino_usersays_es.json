@@ -1,0 +1,204 @@
+[
+  {
+    "id": "d7e9f9d7-eb35-4e35-870a-67b9fe7b26d1",
+    "data": [
+      {
+        "text": "que ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " tengo que tener para saber ",
+        "userDefined": false
+      },
+      {
+        "text": "donde irme",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7f68916-940b-407f-a7d8-1eb2c65eca0e",
+    "data": [
+      {
+        "text": "cual tendria que ser la ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46691793-50d6-48b9-819f-bb3a02c988c8",
+    "data": [
+      {
+        "text": "¿Cuánta ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " tengo que tener para poder irme al ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " que quiero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57969e85-45ae-4e27-a504-d3be0da0cb9a",
+    "data": [
+      {
+        "text": "como se la ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " que tengo que tener ",
+        "userDefined": false
+      },
+      {
+        "text": "para un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9e6476f-a149-411a-a178-b1b49e727ac9",
+    "data": [
+      {
+        "text": "para irme a ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": ", cual tiene que ser mi ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ae51853-8b9b-4466-bd31-962223f265df",
+    "data": [
+      {
+        "text": "cual tiene que ser mi ",
+        "userDefined": false
+      },
+      {
+        "text": "nota",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " para irme a ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

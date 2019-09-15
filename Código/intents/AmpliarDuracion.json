@@ -1,0 +1,58 @@
+{
+  "id": "782d396b-3f5a-4815-a6f0-665cbf2d73ba",
+  "name": "AmpliarDuracion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3fd118e-fe8c-4d48-a983-e9e91a6598d8",
+          "required": false,
+          "dataType": "@Tiempo",
+          "name": "Tiempo",
+          "value": "$Tiempo",
+          "isList": true
+        },
+        {
+          "id": "aea824e3-5466-4e44-af18-7de7d2b701ee",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "isList": false
+        },
+        {
+          "id": "6161512e-b7a0-4c53-a8e4-95f75d51a594",
+          "dataType": "@Aumento",
+          "name": "Aumento",
+          "value": "$Aumento",
+          "isList": false
+        },
+        {
+          "id": "d69e8e86-89b5-4797-87d6-8d92552394b9",
+          "dataType": "@Dinero",
+          "name": "Dinero",
+          "value": "$Dinero",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "9b729008-b992-43f6-bb97-705242611da5",
+    "data": [
+      {
+        "text": "donde presentar",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " el titulo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eeb6bbb6-16f9-430d-b214-6c92db67da67",
+    "data": [
+      {
+        "text": "Tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " título de idiomas dentro de los contenidos en la normativa anterior. ¿",
+        "userDefined": false
+      },
+      {
+        "text": "Dónde tengo que presentarlo",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c2598fc-531e-47f9-b631-115264dc6dac",
+    "data": [
+      {
+        "text": "donde tengo que presentar el titulo",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a948046-e19b-4a42-8762-e12b9e02c19b",
+    "data": [
+      {
+        "text": "Donde presento",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": false
+      },
+      {
+        "text": " mi titulo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35a2945e-a28c-44fb-8282-d3e356e58949",
+    "data": [
+      {
+        "text": "DondePresentarTitulo",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df5abc6a-7a5b-4bc1-b896-f2ce8c547490",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "donde lo presento",
+        "alias": "Lugares",
+        "meta": "@Lugares",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

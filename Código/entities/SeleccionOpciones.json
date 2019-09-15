@@ -1,0 +1,9 @@
+{
+  "id": "39530fea-6ddb-4972-a919-04fa01eb5d46",
+  "name": "SeleccionOpciones",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

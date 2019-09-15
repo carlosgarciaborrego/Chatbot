@@ -1,0 +1,251 @@
+[
+  {
+    "id": "430bf25e-0052-43cb-8e7d-cc8d10ad5a09",
+    "data": [
+      {
+        "text": "ampliar",
+        "alias": "Aumento",
+        "meta": "@Aumento",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "679a8858-0455-4426-bd1c-665e25d221ea",
+    "data": [
+      {
+        "text": "¿Se puede ",
+        "userDefined": false
+      },
+      {
+        "text": "ampliar",
+        "alias": "Aumento",
+        "meta": "@Aumento",
+        "userDefined": false
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80c05e91-b56f-4e04-9220-01ec199674e1",
+    "data": [
+      {
+        "text": "Si el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que yo quiero es de ",
+        "userDefined": false
+      },
+      {
+        "text": "6 meses",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": true
+      },
+      {
+        "text": " y yo quiero irme ",
+        "userDefined": false
+      },
+      {
+        "text": "un año",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿lo\n puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "ampliar",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de757e20-560b-4bb6-8e70-991ccde7add0",
+    "data": [
+      {
+        "text": "si me voy ",
+        "userDefined": false
+      },
+      {
+        "text": "6 meses",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": ",  puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "aumentar",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " hasta ",
+        "userDefined": false
+      },
+      {
+        "text": "1 año",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dadaedc9-43c1-4a8b-9bbc-8f3ca6250f91",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "ampliar",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " la ",
+        "userDefined": false
+      },
+      {
+        "text": "estancia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01af12e0-8dc3-4a72-bff8-f577b0bda710",
+    "data": [
+      {
+        "text": "si me dan ",
+        "userDefined": false
+      },
+      {
+        "text": "6 meses",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": ", puedo quedarme ",
+        "userDefined": false
+      },
+      {
+        "text": "1 año",
+        "alias": "Tiempo",
+        "meta": "@Tiempo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10d8b546-5356-4570-89de-793c8eae3677",
+    "data": [
+      {
+        "text": "puedo ",
+        "userDefined": false
+      },
+      {
+        "text": "aumentar",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " el tiempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cef68dba-8546-4117-a900-cb9d99cb1f4d",
+    "data": [
+      {
+        "text": "puedo quedarme ",
+        "userDefined": false
+      },
+      {
+        "text": "mas tiempo",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": true
+      },
+      {
+        "text": " en el ",
+        "userDefined": false
+      },
+      {
+        "text": "destino",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "d84602da-2afe-4114-82af-a33a7aa26809",
+    "data": [
+      {
+        "text": "¿Qué es el \"",
+        "userDefined": false
+      },
+      {
+        "text": "Transcript of records\"",
+        "alias": "TranscriptOfRecords",
+        "meta": "@TranscriptOfRecords",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ff915dc-b577-48c4-926e-9a6b9a0fd040",
+    "data": [
+      {
+        "text": "Que es el ",
+        "userDefined": false
+      },
+      {
+        "text": "transcript of records",
+        "alias": "TranscriptOfRecords",
+        "meta": "@TranscriptOfRecords",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15376707-8f7c-4b52-abbb-900f0c510b27",
+    "data": [
+      {
+        "text": "Donde esta el ",
+        "userDefined": false
+      },
+      {
+        "text": "transcript of records",
+        "alias": "TranscriptOfRecords",
+        "meta": "@TranscriptOfRecords",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

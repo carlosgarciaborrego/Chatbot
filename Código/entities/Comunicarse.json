@@ -1,0 +1,9 @@
+{
+  "id": "f47a43b6-57a0-4bfe-ac1a-8e3dc65440ff",
+  "name": "Comunicarse",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

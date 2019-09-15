@@ -1,0 +1,138 @@
+[
+  {
+    "id": "afe28500-a917-471b-9170-9520f0e1390d",
+    "data": [
+      {
+        "text": "Casilla de ",
+        "userDefined": false
+      },
+      {
+        "text": "marcar",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "dotacion",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c095ba7-b5f2-44a7-8d27-6a24edaf0617",
+    "data": [
+      {
+        "text": "Casilla de estar dispuesto a irte sin ",
+        "userDefined": false
+      },
+      {
+        "text": "dotacion",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee19ebcb-c3c1-4833-893b-71e0b1a193cc",
+    "data": [
+      {
+        "text": "Que pasa si ",
+        "userDefined": false
+      },
+      {
+        "text": "marco",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": " la casilla de que estoy dispuesto a no recibir ",
+        "userDefined": false
+      },
+      {
+        "text": "dotacion",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5034c208-7a9d-4043-ace3-ea6657332bff",
+    "data": [
+      {
+        "text": "Hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " casilla que ",
+        "userDefined": false
+      },
+      {
+        "text": "dice",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " si estoy dispuesto a irme sin recibir ",
+        "userDefined": false
+      },
+      {
+        "text": "dotacion",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": true
+      },
+      {
+        "text": ". Si la ",
+        "userDefined": false
+      },
+      {
+        "text": "marco",
+        "alias": "Nota",
+        "meta": "@Nota",
+        "userDefined": false
+      },
+      {
+        "text": ", ¿no me darán ",
+        "userDefined": false
+      },
+      {
+        "text": "dinero",
+        "alias": "Dinero",
+        "meta": "@Dinero",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
